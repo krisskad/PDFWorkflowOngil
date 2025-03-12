@@ -1,0 +1,191 @@
+[
+  {
+    "page": 3,
+    "table_number": 1,
+    "data": [
+      [
+        "Three-Axle Commercial Vehicles",
+        "2.40"
+      ],
+      [
+        "Heavy Construction Machinery (HCM) or Earth Moving Equipment (EME)\nor Multi Axle Vehicle (MAV) (four to six axles)",
+        "3.45"
+      ],
+      [
+        "Oversized Vehicles (seven or more axles)",
+        "4.20"
+      ]
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "shape": [
+        3,
+        2
+      ],
+      "headers": [
+        "Bus or Truck (Two Axles)",
+        "2.20"
+      ],
+      "has_detected_header": true
+    }
+  },
+  {
+    "page": 3,
+    "table_number": 2,
+    "data": [
+      [
+        "Table-2",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Location of Toll Plaza\n(chainage)",
+        "During Construction period",
+        "",
+        "After Completion of six laning",
+        ""
+      ],
+      [
+        "",
+        "Length (in km) for\nwhich Fee is\npayable",
+        "Rate at which fee is payable",
+        "Length (in km) for\nwhich Fee is\npayable",
+        "Rate at which fee\nis payable"
+      ],
+      [
+        "At Km 120.700 (Existing\nKm 120.700) of NH-27\nnear Pithadiya village in\nRajkot District of Gujarat",
+        "33.700\n[Excluding length\nof Structures\n(>60m)]",
+        "75% of the base rates\nmentioned in Table 1 above\nwithout annual revision",
+        "33.700\n[Excluding length\nof Structures\n(>60m)]",
+        "100% for four or\nmore lane, of the\nbase\nrates mentioned in\nTable 1 above"
+      ],
+      [
+        "At Km 156.800 (Existing\nKm 156.800) of NH-27\nnear Bharudi in Rajkot\nDistrict of Gujarat",
+        "32.58715\n[Excluding length\nof Structures\n(>60m)]",
+        "75% of the base rates\nmentioned in Table 1 above\nwithout annual revision",
+        "31.48715\n[Excluding length\nof Structures\n(>60m)]",
+        "100% for four or\nmore lane, of the\nbase\nrates mentioned in\nTable 1 above"
+      ]
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "shape": [
+        5,
+        5
+      ]
+    }
+  },
+  {
+    "page": 3,
+    "table_number": 3,
+    "data": [
+      [
+        "Table-3",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "During Construction period",
+        "",
+        "",
+        "After Completion of six laning",
+        "",
+        ""
+      ],
+      [
+        "Location of Fee\nPlaza (Chainage)",
+        "Length of\nstructures (in\nkm) to be\nconverted into\nequivalent road\nlength",
+        "Equivalent\nroad length\n(in km)",
+        "Rate at which\nfee is payable",
+        "Length of\nstructures (in\nkm) to be\nconverted into\nequivalent road\nlength",
+        "Equivalent\nroad length\n(in km)",
+        "Rate at which\nfee is payable"
+      ],
+      [
+        "At Km 156.800\n(Existing Km\n156.800) of NH-8E\n(Ext.) near Bharudi\nin Rajkot District of\nGujarat",
+        "1.11285",
+        "11.1285*",
+        "75% of the base\nrates mentioned\nin Table 1 above\nwithout annual\nrevision",
+        "2.21285**",
+        "22.1285",
+        "100% for four\nor more lane of\nthe base rates\nmentioned in\nTable-1 above"
+      ]
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "shape": [
+        4,
+        7
+      ]
+    }
+  },
+  {
+    "page": 3,
+    "table_number": 4,
+    "data": [
+      [
+        "",
+        "Chainage",
+        "",
+        "Type of Structure",
+        "Length (in km)"
+      ],
+      [
+        "",
+        "From Km",
+        "To Km",
+        "",
+        ""
+      ],
+      [
+        "1",
+        "165.450",
+        "165.550",
+        "Flyover",
+        "0.1001"
+      ],
+      [
+        "2",
+        "174.510",
+        "175.350",
+        "Flyover",
+        "0.84001"
+      ],
+      [
+        "3",
+        "178.051575",
+        "178.132425",
+        "Major Bridge",
+        "0.080853"
+      ],
+      [
+        "4",
+        "179.346",
+        "179.438",
+        "Major Bridge",
+        "0.092003"
+      ],
+      [
+        "Total Structure Length which are > 60m",
+        "",
+        "",
+        "",
+        "1.11285"
+      ]
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "shape": [
+        7,
+        5
+      ]
+    }
+  }
+]

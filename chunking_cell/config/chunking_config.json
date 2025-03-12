@@ -1,0 +1,46 @@
+{
+  "input_paths": {
+    "text_json": "../pdf_extraction_cell/data/output/",
+    "tables_json": "../pdf_extraction_cell/data/input/",
+    "charts_json": "../pdf_extraction_cell/data/output/extracted_images/"
+  },
+  "output_path": "./data/output/",
+  
+  "text_chunking": {
+    "chunk_size": 2000,
+    "chunk_overlap": 200,
+    "min_chunk_size": 100,
+    "include_page_info": true,
+    "include_section_info": true
+  },
+  
+  "table_chunking": {
+    "include_summary": true,
+    "include_insights": true,
+    "include_keywords": true,
+    "include_metadata": true
+  },
+  
+  "chart_chunking": {
+    "include_summary": true,
+    "include_trends": true,
+    "include_insights": true,
+    "include_extracted_table": true,
+    "include_image_path": true
+  },
+  
+  "relationship_detection": {
+    "table_reference_patterns": ["Table", "table", "tbl", "tab"],
+    "chart_reference_patterns": ["Figure", "figure", "fig", "chart", "graph"],
+    "max_distance_for_adjacency": 3,
+    "min_confidence_threshold": 0.7
+  },
+  
+  "document_processing": {
+    "include_summary": true,
+    "include_topics": true,
+    "include_entities": true,
+    "include_structure": true,
+    "include_key_information": true
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "page": 28,
+    "image_number": 1,
+    "filename": "Alphabet_10K_page28_img1.png",
+    "path": "/Users/ajith/Code/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/Alphabet_10K_page28_img1.png",
+    "width": 1364,
+    "height": 960,
+    "format": "jpeg",
+    "xref": 137,
+    "extraction_method": "pymupdf",
+    "colorspace": 3,
+    "colorspace_name": "DeviceRGB"
+  },
+  {
+    "page": 28,
+    "filename": "Alphabet_10K_page28_vector.svg",
+    "path": "/Users/ajith/Code/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/Alphabet_10K_page28_vector.svg",
+    "width": 594.9599609375,
+    "height": 841.9199829101562,
+    "format": "svg",
+    "extraction_method": "pymupdf_vector"
+  },
+  {
+    "page": 29,
+    "image_number": 2,
+    "filename": "Alphabet_10K_page29_img2.png",
+    "path": "/Users/ajith/Code/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/Alphabet_10K_page29_img2.png",
+    "width": 1364,
+    "height": 960,
+    "format": "jpeg",
+    "xref": 141,
+    "extraction_method": "pymupdf",
+    "colorspace": 3,
+    "colorspace_name": "DeviceRGB"
+  },
+  {
+    "page": 29,
+    "filename": "Alphabet_10K_page29_vector.svg",
+    "path": "/Users/ajith/Code/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/Alphabet_10K_page29_vector.svg",
+    "width": 594.9599609375,
+    "height": 841.9199829101562,
+    "format": "svg",
+    "extraction_method": "pymupdf_vector"
+  }
+]

@@ -1,0 +1,245 @@
+{
+  "processed_images": [
+    {
+      "page": 23,
+      "image_number": 1,
+      "filename": "Apple_10K_page23_img1.png",
+      "path": "/Users/ajith/Code/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/Apple_10K_page23_img1.png",
+      "width": 1360,
+      "height": 900,
+      "format": "jpeg",
+      "xref": 6,
+      "extraction_method": "pymupdf",
+      "colorspace": 3,
+      "colorspace_name": "DeviceRGB",
+      "processed": true,
+      "is_chart": true,
+      "chart_type": "line graph",
+      "confidence": 0.99,
+      "description": "A comparison of 5-year cumulative total return among Apple Inc., the S&P 500 Index, and the Dow Jones U.S. Technology Supersector Index from September 2019 to September 2024. The graph shows Apple significantly outperforming both indices, with Apple reaching approximately $430 by the end of the period, compared to about $320 for the Dow Jones Technology Index and $210 for the S&P 500.",
+      "axes_labels": {
+        "x": "Date (yearly intervals from 9/27/19 to 9/28/24)",
+        "y": "Value in dollars (starting at $100)"
+      },
+      "data_series": [
+        "Apple Inc.",
+        "S&P 500 Index",
+        "Dow Jones U.S. Technology Supersector Index"
+      ],
+      "extracted_table": {
+        "headers": [
+          "Date",
+          "Apple Inc.",
+          "S&P 500 Index",
+          "Dow Jones U.S. Technology Supersector Index"
+        ],
+        "data": [
+          [
+            "9/27/19",
+            100,
+            100,
+            100
+          ],
+          [
+            "9/26/20",
+            210,
+            110,
+            145
+          ],
+          [
+            "9/25/21",
+            270,
+            155,
+            215
+          ],
+          [
+            "9/24/22",
+            280,
+            130,
+            160
+          ],
+          [
+            "9/30/23",
+            325,
+            155,
+            220
+          ],
+          [
+            "9/28/24",
+            430,
+            210,
+            320
+          ]
+        ],
+        "data_types": [
+          "date",
+          "number",
+          "number",
+          "number"
+        ],
+        "units": [
+          "date",
+          "dollars",
+          "dollars",
+          "dollars"
+        ],
+        "title": "COMPARISON OF 5-YEAR CUMULATIVE TOTAL RETURN Among Apple Inc., the S&P 500 Index and the Dow Jones U.S. Technology Supersector Index",
+        "source": null,
+        "notes": "The chart shows the cumulative total return with a base value of $100 on 9/27/19",
+        "extraction_confidence": 0.85
+      },
+      "ai_enhancements": {
+        "summary": {
+          "brief_summary": "This line graph compares the 5-year cumulative total return of Apple Inc. against the S&P 500 Index and Dow Jones U.S. Technology Supersector Index from September 2019 to September 2024, showing Apple significantly outperforming both indices.",
+          "detailed_summary": "The chart tracks the investment performance of Apple Inc. compared to two major market indices over a 5-year period, with all three starting at a baseline value of $100 in September 2019. Apple demonstrates remarkable growth, increasing to approximately $430 by September 2024, representing a 330% return. The Dow Jones Technology Supersector Index shows the second-best performance, reaching about $320 (220% return), while the S&P 500 Index achieves approximately $210 (110% return) over the same period.",
+          "key_observations": [
+            "Apple consistently outperformed both indices throughout the entire 5-year period, with its growth accelerating significantly in the final year (2023-2024).",
+            "All three investments experienced volatility during 2021-2022, with noticeable dips or plateaus, likely reflecting broader market conditions.",
+            "The technology sector (represented by the Dow Jones Technology Index) generally outperformed the broader market (S&P 500), but still lagged considerably behind Apple's performance.",
+            "Apple's return (330%) was approximately 3 times that of the S&P 500 (110%) and about 1.5 times that of the Technology Supersector Index (220%) over the 5-year period.",
+            "The most substantial growth for all three investments occurred in the first year (2019-2020) and the final year (2023-2024) of the period."
+          ],
+          "data_range": "5-year period from September 27, 2019, to September 28, 2024, with annual data points.",
+          "audience": "Investors, shareholders, financial analysts, and potential Apple investors looking to compare the company's performance against relevant market benchmarks.",
+          "purpose": "To demonstrate Apple's superior investment performance relative to both the broader market and its technology sector peers, likely included in an annual report, investor presentation, or financial analysis to highlight the company's strong returns to shareholders."
+        },
+        "keywords": {
+          "main_topics": [
+            "Investment performance comparison",
+            "Apple's stock growth",
+            "Market index performance",
+            "Technology sector returns",
+            "5-year cumulative returns"
+          ],
+          "keywords": [
+            "cumulative total return",
+            "Apple Inc.",
+            "S&P 500",
+            "Dow Jones",
+            "Technology Supersector",
+            "investment growth",
+            "stock performance",
+            "market comparison",
+            "5-year period",
+            "outperformance"
+          ],
+          "categories": [
+            "Time (2019-2024)",
+            "Investment value ($)",
+            "Company vs. market indices"
+          ],
+          "entities": [
+            "Apple Inc.",
+            "S&P 500 Index",
+            "Dow Jones U.S. Technology Supersector Index"
+          ],
+          "industry_relevance": [
+            "Technology",
+            "Investment",
+            "Financial services",
+            "Stock market",
+            "Consumer electronics"
+          ]
+        },
+        "insights": {
+          "key_insights": [
+            "Apple Inc. has significantly outperformed both the S&P 500 Index and the Dow Jones U.S. Technology Supersector Index over the 5-year period from 2019 to 2024, with approximately 430% cumulative return compared to about 210% for the Technology Index and 170% for the S&P 500.",
+            "Apple experienced particularly strong growth in the first year (2019-2020), doubling its value while the broader indices showed more modest gains during the same period.",
+            "All three investments experienced a period of stagnation or decline around 2021-2022, likely corresponding to broader market conditions, but Apple maintained its substantial lead.",
+            "From 2023 onwards, all three investments show accelerated growth, with Apple's growth trajectory steepening more dramatically than the indices.",
+            "The Technology Supersector Index consistently outperformed the broader S&P 500 Index, highlighting the technology sector's strength relative to the overall market."
+          ],
+          "business_implications": [
+            "Apple's substantial outperformance demonstrates its exceptional value creation compared to both its technology peers and the broader market, suggesting strong competitive advantages and execution.",
+            "The company's resilience during market downturns (2021-2022) indicates robust business fundamentals that can withstand broader economic challenges.",
+            "Apple's accelerating growth in recent years suggests continued innovation and market expansion rather than maturation and slowing growth that might be expected from a company of its size.",
+            "The technology sector's overall outperformance of the broader market confirms the continued shift toward technology-driven economic growth."
+          ],
+          "recommendations": [
+            "Investors should consider Apple's historical outperformance when evaluating technology investments, while recognizing that past performance doesn't guarantee future results.",
+            "Portfolio managers might examine Apple's business strategies and market positioning to identify factors contributing to its exceptional performance.",
+            "Companies in other sectors could study Apple's business model for insights on creating sustainable competitive advantages and shareholder value.",
+            "Diversification remains important despite Apple's strong performance, as single-stock concentration increases portfolio risk."
+          ],
+          "limitations": [
+            "The chart shows only cumulative returns without accounting for volatility or risk-adjusted performance metrics.",
+            "The time period (2019-2024) includes the COVID-19 pandemic and its aftermath, which created unusual market conditions that may not be representative of normal economic cycles.",
+            "The chart doesn't show dividend yields or total shareholder returns including dividends, which could affect the comparative analysis.",
+            "No information is provided about the specific drivers behind Apple's performance (product launches, market expansion, etc.)."
+          ],
+          "comparative_analysis": [
+            "Apple's cumulative return (~430%) is approximately 2x that of the Technology Supersector Index (~210%) and 2.5x that of the S&P 500 (~170%).",
+            "While all three investments started at the same baseline ($100) in September 2019, by September 2024, Apple reached approximately $430, the Technology Index about $320, and the S&P 500 about $210.",
+            "The Technology Supersector Index consistently maintained a performance advantage over the S&P 500, reflecting the technology sector's stronger growth compared to the broader market.",
+            "All three investments show similar directional movements (rising and falling at similar times), indicating they respond to similar macroeconomic factors, though with different magnitudes."
+          ]
+        },
+        "trends": {
+          "trends": [
+            "Apple Inc. consistently outperformed both the S&P 500 Index and the Dow Jones U.S. Technology Supersector Index over the entire 5-year period",
+            "All three indices showed overall growth from 2019 to 2024, with Apple showing the most dramatic increase",
+            "The S&P 500 experienced the most modest growth trajectory of the three",
+            "Both technology investments (Apple and Tech Supersector) accelerated growth from 2022-2024",
+            "All three indices experienced a period of stagnation or decline around 2021-2022"
+          ],
+          "patterns": [
+            "Apple shows a steeper growth curve compared to the broader indices",
+            "The Dow Jones Technology Supersector Index tends to follow similar directional movements as Apple but with less magnitude",
+            "The S&P 500 shows more moderate fluctuations compared to the technology-focused investments",
+            "All three indices show accelerated growth in the final year (2023-2024)"
+          ],
+          "outliers": [
+            "Apple's exceptional performance between 2023-2024, increasing from $325 to $430 (32% growth in one year)",
+            "The significant drop in the Dow Jones Technology Supersector Index from $215 to $160 between 2021-2022 (25.6% decline)"
+          ],
+          "correlations": [
+            "Moderate positive correlation between Apple and the Dow Jones Technology Supersector Index movements",
+            "Weaker correlation between Apple and the S&P 500 Index, suggesting Apple's performance is more aligned with technology sector trends than the broader market",
+            "All three indices show similar directional changes during major market shifts, but with different magnitudes"
+          ],
+          "growth_rates": {
+            "overall_5yr_growth": {
+              "Apple": "330% (4.3x initial investment)",
+              "S&P_500": "110% (2.1x initial investment)",
+              "Tech_Supersector": "220% (3.2x initial investment)"
+            },
+            "compound_annual_growth_rate": {
+              "Apple": "33.9%",
+              "S&P_500": "16.0%",
+              "Tech_Supersector": "26.2%"
+            }
+          },
+          "statistical_significance": {
+            "assessment": "The consistent outperformance of Apple compared to both indices appears statistically significant",
+            "confidence": "High confidence in the trend of technology outperforming the broader market",
+            "limitations": "Without statistical testing and more data points, precise significance levels cannot be determined",
+            "note": "The sample size (6 data points over 5 years) is relatively small for robust statistical analysis"
+          }
+        }
+      }
+    },
+    {
+      "page": 108,
+      "image_number": 2,
+      "filename": "Apple_10K_page108_img2.png",
+      "path": "/Users/ajith/Code/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/Apple_10K_page108_img2.png",
+      "width": 104,
+      "height": 129,
+      "format": "png",
+      "xref": 7,
+      "extraction_method": "pymupdf",
+      "colorspace": 3,
+      "colorspace_name": "DeviceRGB",
+      "processed": true,
+      "is_chart": false,
+      "confidence": 0.99,
+      "content_type": "logo - Apple Inc. company logo"
+    }
+  ],
+  "summary": {
+    "total_images": 6,
+    "processed_images": 2,
+    "charts_detected": 1,
+    "tables_extracted": 1
+  }
+}

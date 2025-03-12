@@ -1,0 +1,24 @@
+# Core PDF libraries (at least one is required)
+pymupdf>=1.19.0  # PyMuPDF (fitz)
+pypdf>=3.0.0     # Modern version of PyPDF2
+
+# Table extraction libraries (at least one is required)
+camelot-py>=0.10.1  # For table extraction (requires ghostscript)
+pdfplumber>=0.7.0   # Alternative table extraction library
+
+# Image extraction libraries
+pdf2image>=1.16.0  # For converting PDF pages to images
+pillow>=8.0.0    # For image handling and processing
+
+# Optional dependencies for advanced features
+opencv-python>=4.5.0  # For image processing
+numpy>=1.20.0    # Required by OpenCV and other data processing
+pandas>=1.3.0    # For data manipulation and export
+
+# Utility libraries
+tqdm>=4.60.0     # For progress bars
+pyyaml>=6.0      # For configuration handling (alternative to JSON)
+
+# Text post-processing dependencies
+anthropic>=0.18.0  # Claude API client for text analysis
+python-dotenv>=1.0.0  # For loading environment variables from .env file

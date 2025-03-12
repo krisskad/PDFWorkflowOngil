@@ -1,0 +1,718 @@
+{
+  "metadata": {
+    "document_id": "gazette_sample-cropped",
+    "file_info": {
+      "creation_date": "2025-03-11",
+      "author": "",
+      "title": "",
+      "statistics": {
+        "page_count": 4,
+        "chart_count": 2
+      }
+    },
+    "document_type": {
+      "type": "Policy Document",
+      "subtypes": [
+        "Government Notification",
+        "Legal Notification"
+      ],
+      "purpose": "To announce and regulate the collection of user fees on a section of National Highway 8B in Gujarat, India, due to a change in the project's funding model and operational status.",
+      "confidence": 0.95,
+      "keywords": [
+        "National Highway",
+        "Notification",
+        "User Fee",
+        "NHAI",
+        "Concessionaire",
+        "BoT",
+        "Toll",
+        "Gujarat",
+        "National Highways Act",
+        "Fees"
+      ]
+    },
+    "summary": {
+      "brief_summary": "This document is a notification from the Ministry of Road Transport and Highways regarding the collection of user fees (tolls) on National Highway 8B in Gujarat, India. It outlines the fee structure, vehicle categories, and other related regulations for the use of the highway section.",
+      "executive_summary": "The Ministry of Road Transport and Highways has issued a notification authorizing the National Highways Authority of India (NHAI) to collect user fees on a section of National Highway 8B in Gujarat. This notification supersedes a previous one and details the fee structure for various vehicle types, including cars, trucks, and heavy machinery. The fees are to be collected at specific toll plazas, with different rates applicable during and after the completion of the six-laning project. The document also specifies provisions for monthly passes, discounts for local commercial vehicles, and penalties for overloaded vehicles. The notification further includes details on the capital cost of the project and the process for annual revisions of the fee rates.",
+      "detailed_summary": "This document, published in the Gazette of India, is a notification from the Ministry of Road Transport and Highways concerning the collection of user fees on National Highway 8B in Gujarat. The notification references previous agreements and authorizations related to the highway section, including the entrustment of the road to the National Highways Authority of India (NHAI) and a concession agreement with West Gujarat Expressway Limited for widening and maintenance. The BoT (Toll) Concession Agreement was terminated, and the NHAI took over the section. The notification details the fee structure for various vehicle types, differentiating between the construction period (six-laning) and after completion. Fees are calculated based on the base rate per kilometer, with adjustments for the length of the road section and equivalent structure length (bridges, flyovers). Table 1 provides the base rates for different vehicle categories. Table 2 specifies the location of toll plazas and the length for which fees are payable. Table 3 details the fee structure for structures. The document also includes provisions for monthly passes for local residents, discounts for commercial vehicles registered in the district, and penalties for overloaded vehicles. The notification also states that no user fee shall be levied for the delayed period between the Scheduled date of completion and the date of actual completion of the project. The document concludes with information on the estimated capital cost of the project and the process for annual revisions of the fee rates, which will be published in newspapers.",
+      "key_points": [
+        "The NHAI is authorized to collect user fees on a section of National Highway 8B in Gujarat.",
+        "The fee structure varies based on vehicle type, as detailed in Table 1.",
+        "Fees are collected at specific toll plazas, with rates dependent on the stage of the six-laning project (construction vs. completion).",
+        "Fees are levied for both road sections and equivalent structure lengths (bridges, flyovers).",
+        "Monthly passes are available for local residents.",
+        "Discounts are offered to commercial vehicles registered in the district.",
+        "Penalties apply to overloaded vehicles."
+      ],
+      "audience": "This document is intended for the general public, vehicle owners, and stakeholders involved in the use and maintenance of National Highway 8B, including the NHAI, contractors, and government officials."
+    },
+    "topics": {
+      "main_topics": [
+        "National Highway Fee Notification",
+        "Highway Project Details (NH-8B)",
+        "Fee Structure and Collection",
+        "Vehicle Categories and Toll Rates",
+        "Legal and Regulatory Framework"
+      ],
+      "topic_distribution": {
+        "National Highway Fee Notification": 0.95,
+        "Highway Project Details (NH-8B)": 0.85,
+        "Fee Structure and Collection": 0.9,
+        "Vehicle Categories and Toll Rates": 0.8,
+        "Legal and Regulatory Framework": 0.75
+      },
+      "keywords": {
+        "National Highway Fee Notification": [
+          "notification",
+          "fee",
+          "collection",
+          "NHAI",
+          "supersession",
+          "gazette",
+          "authority"
+        ],
+        "Highway Project Details (NH-8B)": [
+          "NH-8B",
+          "Gujarat",
+          "Rajkot",
+          "Porbandar",
+          "widening",
+          "six-laning",
+          "concessionaire"
+        ],
+        "Fee Structure and Collection": [
+          "fee plaza",
+          "toll",
+          "rates",
+          "construction",
+          "completion",
+          "monthly pass",
+          "collection"
+        ],
+        "Vehicle Categories and Toll Rates": [
+          "vehicle",
+          "car",
+          "truck",
+          "bus",
+          "HCM",
+          "fee",
+          "rates"
+        ],
+        "Legal and Regulatory Framework": [
+          "National Highways Act",
+          "rules",
+          "section 7",
+          "section 8A",
+          "S.O. 1083(E)",
+          "Government of India",
+          "authority"
+        ]
+      },
+      "topic_relationships": "The topics are interconnected. The 'National Highway Fee Notification' is the overarching document. It details the 'Highway Project Details' for NH-8B, which necessitates a 'Fee Structure and Collection' system. This system is based on 'Vehicle Categories and Toll Rates' and is governed by the 'Legal and Regulatory Framework'."
+    },
+    "key_information": {
+      "main_topic": "Notification regarding the collection of fees for the use of National Highway 8B in Gujarat.",
+      "key_entities": [
+        "Ministry of Road Transport and Highways",
+        "National Highway Authority of India (NHAI)",
+        "West Gujarat Expressway Limited (Concessionaire)",
+        "Central Government"
+      ],
+      "important_dates": [
+        "March 11, 2025",
+        "December 3, 2001",
+        "April 26, 2002",
+        "May 5, 2008",
+        "October 6, 2006",
+        "April 1, 2022",
+        "March 30, 2022"
+      ],
+      "critical_facts_figures": [
+        "National Highway 8B",
+        "km 143.00 to km 160.00 (Gondal-Ribda section)",
+        "Km. 0.00 to 143.00 and 160.00 to Km. 217.00 (Porbandar-Rajkot-Bamanbore Section)",
+        "km 117.00 to Km. 143.00 (Jetpur-Gondal Section)",
+        "km 175.00 to km. 185.00 (Rajkot bypass)",
+        "66.28715 Km (net road section length)",
+        "11.1285 km (equivalent structure length during construction)",
+        "22.1285 km (equivalent structure length after completion)",
+        "75% of the base rate (during construction)",
+        "100% of the base rate (after completion)",
+        "Rs 340.00 (monthly pass for local residents)",
+        "Fee for commercial vehicle is 50% of the prescribed rate"
+      ],
+      "action_items": [
+        "NHAI to collect user fee as per the new notification.",
+        "Fees to be levied and collected at the specified rates at the Fee Plazas.",
+        "Monthly passes to be issued to local residents.",
+        "Passes for multiple journeys to be issued at specified rates."
+      ],
+      "document_metadata": {
+        "author": "Ministry of Road Transport and Highways",
+        "date": "March 11, 2025",
+        "version": "S.O. 1132(E)"
+      }
+    }
+  },
+  "entities": {
+    "Road_Sections": [
+      {
+        "section_name": "NH-27",
+        "start_location": "Km 120.700",
+        "end_location": "Km 120.700",
+        "context": "At Km 120.700 (Existing Km 120.700) of NH-27 near Pithadiya village in Rajkot District of Gujarat",
+        "additional_info": "Fee Plaza",
+        "chunk_id": "gazette_sample-cropped_chart_p3_0"
+      },
+      {
+        "section_name": "NH-8E",
+        "start_location": "Km 156.800",
+        "end_location": "Km 156.800",
+        "context": "At Km 156.800 (Existing Km 156.800) of NH-8E (Ext.) near Bharudi in Rajkot District of Gujarat",
+        "additional_info": "Fee Plaza",
+        "chunk_id": "gazette_sample-cropped_chart_p3_0"
+      }
+    ],
+    "Locations": [
+      {
+        "text": "NEW DELHI",
+        "category": "Locations",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p1_0"
+      },
+      {
+        "text": "New Delhi",
+        "category": "Locations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Gondal",
+        "category": "Locations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Ribda",
+        "category": "Locations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Gujarat",
+        "category": "Locations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Porbandar",
+        "category": "Locations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Rajkot",
+        "category": "Locations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Bamanbore",
+        "category": "Locations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Bandra Kurla Complex, Bandra East, Mumbai",
+        "category": "Locations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Jetpur",
+        "category": "Locations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Delhi",
+        "category": "Locations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Pithadiya village",
+        "category": "Locations",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "Rajkot District of Gujarat",
+        "category": "Locations",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "Bharudi",
+        "category": "Locations",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "NH-8E",
+        "category": "Locations",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "Ring Road, Mayapuri, New Delhi-110064",
+        "category": "Locations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      },
+      {
+        "text": "Delhi-110054",
+        "category": "Locations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      }
+    ],
+    "Dates": [
+      {
+        "text": "\u092e\u093e\u091a\u091a 11, 2025",
+        "category": "Dates",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p1_0"
+      },
+      {
+        "text": "MARCH 11, 2025",
+        "category": "Dates",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p1_0"
+      },
+      {
+        "text": "\u092b\u093e\u0932\u094d \u0917\u0941\u0928 20, 1946",
+        "category": "Dates",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p1_0"
+      },
+      {
+        "text": "PHALGUNA 20, 1946",
+        "category": "Dates",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p1_0"
+      },
+      {
+        "text": "11th March, 2025",
+        "category": "Dates",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "03/12/2001",
+        "category": "Dates",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "26th April, 2002",
+        "category": "Dates",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "6th October, 2006",
+        "category": "Dates",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "05.05.2008",
+        "category": "Dates",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "01.04.2022",
+        "category": "Dates",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "30.03.2022",
+        "category": "Dates",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "2024-25",
+        "category": "Dates",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      },
+      {
+        "text": "2007-2008",
+        "category": "Dates",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      },
+      {
+        "text": "17.09.2021",
+        "category": "Dates",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      }
+    ],
+    "Organizations": [
+      {
+        "text": "MINISTRY OF ROAD TRANSPORT AND HIGHWAYS",
+        "category": "Organizations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Government of India",
+        "category": "Organizations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Ministry of Road Transport and Highways",
+        "category": "Organizations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "National Highway Authority of India",
+        "category": "Organizations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Authority",
+        "category": "Organizations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "West Gujarat Expressway Limited",
+        "category": "Organizations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "IL&FS Financial Centre",
+        "category": "Organizations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Minister of Shipping, Road Transport and Highways",
+        "category": "Organizations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "NHAI",
+        "category": "Organizations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Hon\u2019ble High Court of Delhi",
+        "category": "Organizations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Central Government",
+        "category": "Organizations",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Government of India Press",
+        "category": "Organizations",
+        "confidence": 0.85,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      },
+      {
+        "text": "Controller of Publications",
+        "category": "Organizations",
+        "confidence": 0.85,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      }
+    ],
+    "Products or services": [
+      {
+        "text": "BoT(Toll)",
+        "category": "Products or services",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "BoT Concession Agreement",
+        "category": "Products or services",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "user fee",
+        "category": "Products or services",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Light Commercial Vehicle",
+        "category": "Products or services",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "Light Goods Vehicle",
+        "category": "Products or services",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "Mini Bus",
+        "category": "Products or services",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "Bus",
+        "category": "Products or services",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "Truck",
+        "category": "Products or services",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "Three-Axle Commercial Vehicles",
+        "category": "Products or services",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "Heavy Construction Machinery",
+        "category": "Products or services",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "Earth Moving Equipment",
+        "category": "Products or services",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "Multi Axle Vehicle",
+        "category": "Products or services",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "Oversized Vehicles",
+        "category": "Products or services",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "Flyover",
+        "category": "Products or services",
+        "confidence": 0.8,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      },
+      {
+        "text": "Elevated Structure",
+        "category": "Products or services",
+        "confidence": 0.8,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      },
+      {
+        "text": "Major Bridge",
+        "category": "Products or services",
+        "confidence": 0.8,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      }
+    ],
+    "Legal references": [
+      {
+        "text": "S.O. 1132(E)",
+        "category": "Legal references",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "S.O. 1192(E)",
+        "category": "Legal references",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "S.O. 465 (E)",
+        "category": "Legal references",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "Section 11 of the National Highway Authority of India Act 1988 (68 of 1988)",
+        "category": "Legal references",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "National Highway no. 8B",
+        "category": "Legal references",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "section 8A of the National Highways Act, 1956 (48 of 1956)",
+        "category": "Legal references",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "rule 3 of the National Highways (Collection of Fees by any Person for the user of Section of the National Highways/Permanent Bridge/Temporary Bridge on National Highways), Rules 1997",
+        "category": "Legal references",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "rule 3 of the National Highways (Rate of Fee), Rules, 1997",
+        "category": "Legal references",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "S.O. 1725 (E)",
+        "category": "Legal references",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "S.O. No. 1083(E)",
+        "category": "Legal references",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "section 7 of the National Highways Act, 1956 (48 of 1956)",
+        "category": "Legal references",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "rule 3 of the National Highways Fee (Determination of Rates and Collection) Rules, 2008",
+        "category": "Legal references",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p2_0"
+      },
+      {
+        "text": "rule 10",
+        "category": "Legal references",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      },
+      {
+        "text": "rule 12",
+        "category": "Legal references",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      },
+      {
+        "text": "Rule 5",
+        "category": "Legal references",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      }
+    ],
+    "Financial figures": [
+      {
+        "text": "1.05",
+        "category": "Financial figures",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "2.20",
+        "category": "Financial figures",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "2.40",
+        "category": "Financial figures",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "3.45",
+        "category": "Financial figures",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "4.20",
+        "category": "Financial figures",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "75%",
+        "category": "Financial figures",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "100%",
+        "category": "Financial figures",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p3_0"
+      },
+      {
+        "text": "Rs 340.000",
+        "category": "Financial figures",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      },
+      {
+        "text": "1815.81 crore",
+        "category": "Financial figures",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      },
+      {
+        "text": "50%",
+        "category": "Financial figures",
+        "confidence": 0.9,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      },
+      {
+        "text": "60m",
+        "category": "Financial figures",
+        "confidence": 0.8,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      }
+    ],
+    "People": [
+      {
+        "text": "KAMLESH CHATURVEDI",
+        "category": "People",
+        "confidence": 0.95,
+        "chunk_id": "gazette_sample-cropped_text_p4_0"
+      }
+    ]
+  },
+  "processing_info": {
+    "timestamp": 1741796174.6532152,
+    "input_file": "data/output/gazette_sample-cropped_chunked.json",
+    "config_file": "online_augmentation/config/augmentation_config.json"
+  }
+}

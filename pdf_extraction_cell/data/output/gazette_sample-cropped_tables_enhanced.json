@@ -1,0 +1,318 @@
+{
+  "tables": [
+    {
+      "page": 3,
+      "table_number": 1,
+      "data": [
+        [
+          "Three-Axle Commercial Vehicles",
+          "2.40"
+        ],
+        [
+          "Heavy Construction Machinery (HCM) or Earth Moving Equipment (EME)\nor Multi Axle Vehicle (MAV) (four to six axles)",
+          "3.45"
+        ],
+        [
+          "Oversized Vehicles (seven or more axles)",
+          "4.20"
+        ]
+      ],
+      "metadata": {
+        "extraction_method": "pdfplumber",
+        "shape": [
+          3,
+          2
+        ],
+        "headers": [
+          "Bus or Truck (Two Axles)",
+          "2.20"
+        ],
+        "has_detected_header": true,
+        "page_context": "6 \nTHE GAZETTE OF INDIA : EXTRAORDINARY \n [PART II—SEC. 3(ii)] \nLight Commercial Vehicle, Light Goods Vehicle or Mini Bus \n1.05 \nBus or Truck (Two Axles) \n2.20 \nThree-Axle Commercial Vehicles \n2.40 \nH...",
+        "validation_metrics": {
+          "rows": 3,
+          "cols": 2,
+          "numeric_percentage": 0.5,
+          "delimiter_percentage": 0.0,
+          "long_text_percentage": 0.16666666666666666,
+          "sentence_percentage": 0.0,
+          "column_width_variance": 0.7700957934194085,
+          "section_heading_ratio": 0.0
+        },
+        "cleaned_empty_rows": true,
+        "headers_cleaned": true,
+        "alignment_fixed": true,
+        "title": "above, for the distance specified for such Fee Plaza(s), namely: -",
+        "footnotes": [
+          "The fee to be levied and collected hereunder shall be due and payable at the Fee Plaza, at the base rate"
+        ]
+      },
+      "ai_enhancements": {
+        "table_type": {
+          "type": "Reference",
+          "subtypes": [
+            "Fee Schedule",
+            "Toll Rates"
+          ],
+          "purpose": "To provide a schedule of toll fees based on vehicle type.",
+          "data_category": "Financial (Toll Fees)",
+          "confidence": 0.95
+        },
+        "summary": {
+          "brief_summary": "This table outlines the toll fees for various types of vehicles, ranging from buses and trucks to oversized vehicles with seven or more axles.",
+          "detailed_summary": "The table presents a fee structure for different vehicle categories using a base rate. The fees increase with the size and axle count of the vehicle. The table is used to determine the toll charges at a fee plaza. The fees are likely to be applied for a specific distance.",
+          "key_observations": [
+            "Toll fees increase with the number of axles.",
+            "The base rate for a bus or truck (two axles) is 2.20.",
+            "Oversized vehicles have the highest toll fee at 4.20.",
+            "Three-axle commercial vehicles have a toll fee of 2.40.",
+            "Heavy Construction Machinery (HCM) or Earth Moving Equipment (EME) or Multi Axle Vehicle (MAV) (four to six axles) have a toll fee of 3.45."
+          ],
+          "data_range": "Vehicle types and corresponding toll fees.",
+          "audience": "Highway users, toll operators, and regulatory bodies."
+        },
+        "keywords": {
+          "main_topics": [
+            "Toll Fees",
+            "Vehicle Types",
+            "Axles",
+            "Fee Structure",
+            "Commercial Vehicles"
+          ],
+          "keywords": [
+            "Bus",
+            "Truck",
+            "Two Axles",
+            "Three-Axle",
+            "Commercial Vehicles",
+            "HCM",
+            "EME",
+            "MAV",
+            "Oversized Vehicles",
+            "Toll"
+          ],
+          "categories": [
+            "Vehicle Type",
+            "Number of Axles",
+            "Toll Fee"
+          ],
+          "entities": []
+        },
+        "insights": {
+          "key_insights": [
+            "The toll fee is directly proportional to the number of axles on a vehicle.",
+            "The fee structure differentiates between various types of commercial vehicles.",
+            "The table provides a clear and concise overview of the toll rates.",
+            "The fee structure is designed to account for the size and weight of vehicles.",
+            "The table is part of a larger document that likely details toll collection procedures."
+          ],
+          "trends": "The trend is an increasing toll fee with an increasing number of axles.",
+          "anomalies": "None apparent within this table.",
+          "comparisons": "The table allows for direct comparison of toll fees across different vehicle categories.",
+          "data_quality_issues": "No apparent data quality issues within this table."
+        },
+        "Road_Sections": {
+          "analysis": {
+            "document_type": "Table",
+            "road_sections_identified": [],
+            "variations_in_naming": [],
+            "additional_descriptors": [],
+            "context": "Fee Plaza pricing",
+            "ambiguous_cases": [],
+            "summary": "The provided text is a table detailing toll fees for various vehicle types at a Fee Plaza. No road section names were identified in the provided text."
+          }
+        }
+      }
+    },
+    {
+      "page": 3,
+      "table_number": 2,
+      "data": [
+        [
+          "Table-2",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Location of Toll Plaza\n(chainage)",
+          "During Construction period",
+          "",
+          "After Completion of six laning",
+          ""
+        ],
+        [
+          "",
+          "Length (in km) for\nwhich Fee is\npayable",
+          "Rate at which fee is payable",
+          "Length (in km) for\nwhich Fee is\npayable",
+          "Rate at which fee\nis payable"
+        ],
+        [
+          "At Km 120.700 (Existing\nKm 120.700) of NH-27\nnear Pithadiya village in\nRajkot District of Gujarat",
+          "33.700\n[Excluding length\nof Structures\n(>60m)]",
+          "75% of the base rates\nmentioned in Table 1 above\nwithout annual revision",
+          "33.700\n[Excluding length\nof Structures\n(>60m)]",
+          "100% for four or\nmore lane, of the\nbase\nrates mentioned in\nTable 1 above"
+        ],
+        [
+          "At Km 156.800 (Existing\nKm 156.800) of NH-27\nnear Bharudi in Rajkot\nDistrict of Gujarat",
+          "32.58715\n[Excluding length\nof Structures\n(>60m)]",
+          "75% of the base rates\nmentioned in Table 1 above\nwithout annual revision",
+          "31.48715\n[Excluding length\nof Structures\n(>60m)]",
+          "100% for four or\nmore lane, of the\nbase\nrates mentioned in\nTable 1 above"
+        ]
+      ],
+      "metadata": {
+        "extraction_method": "pdfplumber",
+        "shape": [
+          5,
+          5
+        ],
+        "page_context": "6 \nTHE GAZETTE OF INDIA : EXTRAORDINARY \n [PART II—SEC. 3(ii)] \nLight Commercial Vehicle, Light Goods Vehicle or Mini Bus \n1.05 \nBus or Truck (Two Axles) \n2.20 \nThree-Axle Commercial Vehicles \n2.40 \nH...",
+        "validation_metrics": {
+          "rows": 5,
+          "cols": 5,
+          "numeric_percentage": 0.44,
+          "delimiter_percentage": 0.08,
+          "long_text_percentage": 0.0,
+          "sentence_percentage": 0.08,
+          "column_width_variance": 0.02646508287579881,
+          "section_heading_ratio": 0.0
+        },
+        "cleaned_empty_rows": true,
+        "alignment_fixed": true,
+        "merged_cells": [
+          [
+            4,
+            2,
+            "vertical"
+          ],
+          [
+            4,
+            4,
+            "vertical"
+          ]
+        ],
+        "has_merged_cells": true,
+        "title": "above, for the distance specified for such Fee Plaza(s), namely: -",
+        "footnotes": [
+          "The fee to be levied and collected hereunder shall be due and payable at the Fee Plaza, at the base rate"
+        ]
+      },
+      "ai_enhancements": {
+        "table_type": {
+          "type": "Comparative",
+          "subtypes": [
+            "Toll Rate",
+            "Fee Structure"
+          ],
+          "purpose": "To compare toll rates and fee structures during and after the construction period for different toll plazas.",
+          "data_category": "Toll Rates, Distance, Construction Phase",
+          "confidence": 0.95
+        },
+        "summary": {
+          "brief_summary": "This table compares the length of road for which fees are payable and the applicable rates at two toll plazas during the construction period and after the completion of six-laning.",
+          "detailed_summary": "The table presents toll information for two locations on NH-27 near Rajkot, Gujarat. It details the length of road subject to fees and the rate structure during the construction phase and after the completion of six-laning. The rates are expressed as a percentage of base rates from a separate table (Table 1), with no annual revision during construction and a 100% rate after completion for four or more lanes.",
+          "key_observations": [
+            "Toll rates are lower during the construction period (75% of base rates).",
+            "The rate increases to 100% of base rates after the completion of six-laning.",
+            "The length of road for which fees are payable is similar during both periods.",
+            "The fee structure is location-specific, with different toll plazas having different chainages.",
+            "The length excludes structures greater than 60m."
+          ],
+          "data_range": "Covers two toll plazas on NH-27, comparing toll rates during construction and after six-laning completion.",
+          "audience": "Government agencies, infrastructure developers, and transportation analysts."
+        },
+        "keywords": {
+          "main_topics": [
+            "Toll Rates",
+            "Construction",
+            "Six-Laning",
+            "Fee Plaza",
+            "NH-27"
+          ],
+          "keywords": [
+            "Toll",
+            "Fee",
+            "Construction Period",
+            "Six-Laning",
+            "Rate",
+            "Length",
+            "Chainage",
+            "Gujarat",
+            "Base Rates",
+            "Structures"
+          ],
+          "categories": [
+            "Location",
+            "Construction Phase",
+            "Length (km)",
+            "Rate"
+          ],
+          "entities": [
+            "NH-27",
+            "Pithadiya village",
+            "Rajkot District",
+            "Bharudi",
+            "Table 1"
+          ]
+        },
+        "insights": {
+          "key_insights": [
+            "Toll rates are discounted during construction to incentivize early use of the road.",
+            "The completion of six-laning leads to an increase in toll rates.",
+            "The length of the toll road remains relatively consistent before and after construction.",
+            "The fee structure is designed to recover costs and potentially fund future infrastructure projects.",
+            "The data suggests a phased approach to toll implementation, with adjustments based on project progress."
+          ],
+          "trends": [
+            "An increase in toll rates after the completion of six-laning."
+          ],
+          "anomalies": [],
+          "comparisons": [
+            "Comparison of toll rates during construction versus after six-laning.",
+            "Comparison of toll rates between the two toll plazas."
+          ],
+          "data_quality_issues": [
+            "Reliance on 'Table 1' for base rates, which is not provided, potentially limiting the full understanding of the rates."
+          ]
+        },
+        "Road_Sections": {
+          "analysis": {
+            "road_sections": [
+              {
+                "complete_name": "NH-27",
+                "starting_location": "NH",
+                "ending_location": "27",
+                "variations": [],
+                "additional_descriptors": [],
+                "context": "Location of Toll Plaza",
+                "ambiguity_flag": false
+              },
+              {
+                "complete_name": "NH-27",
+                "starting_location": "NH",
+                "ending_location": "27",
+                "variations": [],
+                "additional_descriptors": [],
+                "context": "Location of Toll Plaza",
+                "ambiguity_flag": false
+              }
+            ],
+            "unique_road_sections": [
+              "NH-27"
+            ],
+            "ambiguous_cases": []
+          }
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "count": 2,
+    "processed_timestamp": "2025-03-12 19:38:57",
+    "processor_version": "1.0"
+  }
+}

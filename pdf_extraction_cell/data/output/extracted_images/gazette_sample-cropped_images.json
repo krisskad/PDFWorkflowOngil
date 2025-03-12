@@ -1,0 +1,31 @@
+[
+  {
+    "page": 3,
+    "filename": "gazette_sample-cropped_page3_vector.svg",
+    "path": "/home/krishna/ongil/projects/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/gazette_sample-cropped_page3_vector.svg",
+    "width": 595.4400024414062,
+    "height": 841.6799926757812,
+    "format": "svg",
+    "extraction_method": "pymupdf_vector"
+  },
+  {
+    "page": 3,
+    "filename": "gazette_sample-cropped_page3_full.png",
+    "path": "/home/krishna/ongil/projects/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/gazette_sample-cropped_page3_full.png",
+    "width": 4962,
+    "height": 7014,
+    "format": "png",
+    "dpi": 600,
+    "extraction_method": "pymupdf_full_page"
+  },
+  {
+    "page": 3,
+    "filename": "gazette_sample-cropped_page3_high_res.png",
+    "path": "/home/krishna/ongil/projects/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/gazette_sample-cropped_page3_high_res.png",
+    "width": 4962,
+    "height": 7015,
+    "format": "png",
+    "dpi": 600,
+    "extraction_method": "high_res_page_image"
+  }
+]

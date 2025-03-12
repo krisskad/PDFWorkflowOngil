@@ -1,0 +1,41 @@
+{
+  "gemini_model": "google/gemini-2.0-flash-lite-001",
+  "max_tokens": 4096,
+  "temperature": 0.0,
+  "rate_limit_delay": 1.0,
+  "use_openrouter_api": true,
+  "site_url": "https://example.com",
+  "site_name": "PDF Extraction Tool",
+  
+  "chart_detection": {
+    "enabled": true,
+    "confidence_threshold": 0.7
+  },
+  
+  "table_extraction": {
+    "enabled": true,
+    "include_headers": true,
+    "standardize_data_types": true
+  },
+  
+  "enhanced_analysis": {
+    "summarize_charts": true,
+    "extract_keywords": true,
+    "extract_insights": true,
+    "detect_trends": true
+  },
+  
+  "output_settings": {
+    "format": "json",
+    "include_original_image_path": true,
+    "pretty_print": true
+  },
+  
+  "logging": {
+    "level": "INFO",
+    "log_to_file": true,
+    "log_file": "image_post_processing.log"
+  },
+  
+  "custom_prompts": {"Road_Sections":"TASK: Analyze document text to extract all road section names (format: [Location]-[Location] section).\n\n  OBJECTIVE: From the provided document text, identify and extract all instances of road section names following the pattern \"[Location]-[Location] section\" such as \"Gondal-Ribda section\".\n  \n  DATA POINTS TO IDENTIFY:\n  1. Complete road section names in the format \"[Location]-[Location] section\"\n  2. Starting location name for each road section\n  3. Ending location name for each road section\n  4. Any variations in naming convention (e.g., \"Road section [Location]-[Location]\")\n  5. Any additional descriptors or qualifiers attached to road sections\n  6. Context in which road sections are mentioned (e.g., construction, maintenance, planning)\n  \n  INSTRUCTIONS:\n  - The input will be document text that may contain road section references\n  - Search for the pattern of two location names connected by a hyphen and followed by the word \"section\"\n  - Look for variations such as \"section of [Location]-[Location]\" or \"[Location]-[Location] road section\"\n  - Pay attention to capitalization patterns in section names\n  - Extract the complete road section name along with its immediate context\n  - Note any additional information about the road sections (length, status, etc.)\n  - Compile a comprehensive list of all unique road section names found in the document\n  - Flag any ambiguous cases where it's unclear if text represents a road section name\n\n{document_text}"}
+}

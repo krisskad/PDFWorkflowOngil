@@ -1,0 +1,476 @@
+{
+  "processed_images": [
+    {
+      "page": 3,
+      "filename": "gazette_sample_page3_full.png",
+      "path": "/Users/ajith/Code/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/gazette_sample_page3_full.png",
+      "width": 4962,
+      "height": 7014,
+      "format": "png",
+      "dpi": 600,
+      "extraction_method": "pymupdf_full_page",
+      "processed": true,
+      "is_chart": true,
+      "chart_type": "table",
+      "confidence": 1.0,
+      "description": "The image contains multiple tables detailing fee structures for toll plazas. Table 2 outlines fees during and after construction, while Table 3 focuses on structure-related fees. The tables include information on location, length, and rate of fees.",
+      "axes_labels": [],
+      "data_series": [],
+      "extracted_table": {
+        "headers": [
+          "Location of Toll Plaza (chainage)",
+          "Length (in km) for which Fee is payable",
+          "Rate at which fee is payable",
+          "Length (in km) for which Fee is payable",
+          "Rate at which fee is payable",
+          "Length of structures (in km) to be converted into equivalent road length",
+          "Equivalent road length (in km)",
+          "Rate at which fee is payable",
+          "Length of structures (in km) to be converted into equivalent road length",
+          "Equivalent road length (in km)",
+          "Rate at which fee is payable",
+          "From Km",
+          "To Km",
+          "Type of Structure",
+          "Length (in km)"
+        ],
+        "data": [
+          [
+            "At Km 120.700 (Existing Km 120.700) of NH-27 near Pithadiya village in Rajkot District of Gujarat",
+            "33.700 [Excluding length of Structures (>60m)]",
+            "75% of the base rates mentioned in Table 1 above without annual revision",
+            "33.700 [Excluding length of Structures (>60m)]",
+            "100% for four or more lane, of the base rates mentioned in Table 1 above",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "At Km 156.800 (Existing Km 156.800) of NH-27 near Bharudi in Rajkot District of Gujarat",
+            "32.58715 [Excluding length of Structures (>60m)]",
+            "75% of the base rates mentioned in Table 1 above without annual revision",
+            "31.48715 [Excluding length of Structures (>60m)]",
+            "100% for four or more lane, of the base rates mentioned in Table 1 above",
+            1.11285,
+            "11.1285*",
+            "75% of the base rates mentioned in Table 1 above without annual revision",
+            "2.21285**",
+            22.1285,
+            "100% for four or more lane of the base rates mentioned in Table-1 above",
+            "165.450",
+            "165.550",
+            "Flyover",
+            "0.1001"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "174.510",
+            "175.350",
+            "Flyover",
+            "0.84001"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "178.051575",
+            "178.132425",
+            "Major Bridge",
+            "0.080853"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "179.346",
+            "179.438",
+            "Major Bridge",
+            "0.092003"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Total Structure Length which are > 60m",
+            "1.11285"
+          ]
+        ],
+        "data_types": [
+          "string",
+          "string",
+          "string",
+          "string",
+          "string",
+          "number",
+          "string",
+          "string",
+          "number",
+          "number",
+          "string",
+          "string",
+          "string",
+          "string",
+          "string"
+        ],
+        "units": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          "km",
+          "km",
+          null,
+          "km",
+          "km",
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "title": null,
+        "source": null,
+        "notes": [
+          "*The details are as under: -",
+          "1- The structure is already constructed & retained in widening to 6 laning of subject stretch.",
+          "3- The structure is currently having 4 lane deck width & it is proposed under 6 laning of the subject stretch."
+        ],
+        "extraction_confidence": 1
+      },
+      "ai_enhancements": {
+        "summary": {
+          "brief_summary": "This chart details toll fees for highway sections, including rates during and after construction, and fees related to structures. It provides a breakdown of fee structures based on location and type of structure.",
+          "detailed_summary": "The chart presents toll fee structures for two toll plazas, outlining fees during the construction phase and after the completion of six-laning. It includes information on the length of the fee-paying sections, the applicable rates, and the treatment of structures exceeding 60 meters in length. Additionally, it provides details on specific structures, including their type and length, and how these lengths are converted into equivalent road lengths for fee calculation.",
+          "key_observations": [
+            "Toll fees are location-specific, varying between the two toll plazas.",
+            "Fee rates change after the completion of six-laning.",
+            "Structures longer than 60m are subject to additional fees, calculated based on an equalization factor.",
+            "The chart provides details on specific structures like flyovers and bridges, including their lengths.",
+            "The fee structure includes a provision for 75% of the base rates during construction and 100% after completion."
+          ],
+          "data_range": "The data covers toll fees for specific locations (chainage) on a highway, including details on structures and their lengths.",
+          "audience": "Government agencies, highway construction companies, toll operators, and financial analysts.",
+          "purpose": "To provide a clear and detailed breakdown of toll fee structures for a specific highway project, likely for regulatory, financial, or operational purposes."
+        },
+        "keywords": {
+          "main_topics": [
+            "Toll Fees",
+            "Highway Construction",
+            "Fee Structures",
+            "Structures",
+            "Chainage"
+          ],
+          "keywords": [
+            "Toll Plaza",
+            "Construction",
+            "Six-laning",
+            "Structures",
+            "Flyover",
+            "Major Bridge",
+            "Rate",
+            "Length",
+            "Equivalent Road Length",
+            "Fee"
+          ],
+          "categories": [
+            "Location (Chainage)",
+            "Construction Phase",
+            "Post-Construction Phase",
+            "Structure Type",
+            "Length (km)",
+            "Fee Rate"
+          ],
+          "entities": [
+            "NH-27",
+            "Pithadiya village",
+            "Rajkot District of Gujarat",
+            "NH-8E",
+            "Bharudi",
+            "Flyover",
+            "Major Bridge"
+          ],
+          "industry_relevance": [
+            "Transportation",
+            "Infrastructure",
+            "Construction",
+            "Finance",
+            "Government"
+          ]
+        },
+        "insights": {
+          "key_insights": [
+            "Toll fees are dynamic, changing based on the stage of construction.",
+            "Structures significantly impact the toll fee calculation.",
+            "The fee structure is designed to incentivize the completion of the six-laning project.",
+            "The chart provides a clear methodology for calculating fees based on structure lengths.",
+            "The data suggests a phased approach to toll collection, with different rates during and after construction."
+          ],
+          "business_implications": "The fee structure directly impacts the financial viability of the highway project and the revenue generated by toll collection. Understanding the fee structure is crucial for financial planning, investment decisions, and operational management.",
+          "recommendations": "Conduct regular audits to ensure accurate fee collection based on the defined structure. Analyze the impact of structure-related fees on overall revenue. Monitor the progress of the six-laning project to anticipate changes in fee rates.",
+          "limitations": "The chart does not provide information on the base rates mentioned in Table 1, which are essential for calculating the actual fees. The data is specific to the two toll plazas mentioned and may not be representative of other highway projects.",
+          "comparative_analysis": "The chart allows for a comparison of fee rates before and after the completion of six-laning. It also enables a comparison of fees based on the location of the toll plaza and the presence of structures."
+        },
+        "trends": {
+          "trends": [
+            "Fee rates increase after the completion of six-laning.",
+            "The inclusion of structures leads to higher fees.",
+            "The fee structure is designed to be dynamic, changing based on project milestones."
+          ],
+          "patterns": [
+            "A clear pattern of higher fees post-construction.",
+            "A consistent method for calculating structure-related fees."
+          ],
+          "outliers": "None apparent in the provided data.",
+          "correlations": [
+            "Positive correlation between the length of structures and the equivalent road length used for fee calculation.",
+            "Positive correlation between the completion of six-laning and increased fee rates."
+          ],
+          "growth_rates": "Not applicable, as the data represents a static fee structure at different stages.",
+          "statistical_significance": "Not applicable, as the data is not presented in a way that allows for statistical analysis."
+        },
+        "Road_Sections": {
+          "road_sections": [
+            {
+              "section_name": "NH-27",
+              "location_from": "Km 120.700",
+              "location_to": "Km 120.700",
+              "context": "At Km 120.700 (Existing Km 120.700) of NH-27 near Pithadiya village in Rajkot District of Gujarat",
+              "additional_info": "Fee Plaza"
+            },
+            {
+              "section_name": "NH-27",
+              "location_from": "Km 156.800",
+              "location_to": "Km 156.800",
+              "context": "At Km 156.800 (Existing Km 156.800) of NH-27 near Bharudi in Rajkot District of Gujarat",
+              "additional_info": "Fee Plaza"
+            },
+            {
+              "section_name": "NH-8E",
+              "location_from": "Km 156.800",
+              "location_to": "Km 156.800",
+              "context": "At Km 156.800 (Existing Km 156.800) of NH-8E (Ext.) near Bharudi in Rajkot District of Gujarat",
+              "additional_info": "Fee Plaza"
+            }
+          ],
+          "ambiguous_cases": []
+        }
+      }
+    },
+    {
+      "page": 3,
+      "filename": "gazette_sample_page3_high_res.png",
+      "path": "/Users/ajith/Code/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/gazette_sample_page3_high_res.png",
+      "width": 4962,
+      "height": 7015,
+      "format": "png",
+      "dpi": 600,
+      "extraction_method": "high_res_page_image",
+      "processed": true,
+      "is_chart": true,
+      "chart_type": "table",
+      "confidence": 1.0,
+      "description": "The image contains multiple tables detailing toll fees and structure information.",
+      "axes_labels": [],
+      "data_series": [],
+      "extracted_table": {
+        "headers": [
+          "Location of Toll Plaza (chainage)",
+          "Length (in km) for which Fee is payable",
+          "Rate at which fee is payable",
+          "Length (in km) for which Fee is payable",
+          "Rate at which fee is payable"
+        ],
+        "data": [
+          [
+            "At Km 120.700 (Existing Km 120.700) of NH-27 near Pithadiya village in Rajkot District of Gujarat",
+            "33.700 [Excluding length of Structures (>60m)]",
+            "75% of the base rates mentioned in Table 1 above without annual revision",
+            "33.700 [Excluding length of Structures (>60m)]",
+            "100% for four or more lane, of the base rates mentioned in Table 1 above"
+          ],
+          [
+            "At Km 156.800 (Existing Km 156.800) of NH-27 near Bharudi in Rajkot District of Gujarat",
+            "32.58715 [Excluding length of Structures (>60m)]",
+            "75% of the base rates mentioned in Table 1 above without annual revision",
+            "31.48715 [Excluding length of Structures (>60m)]",
+            "100% for four or more lane, of the base rates mentioned in Table 1 above"
+          ]
+        ],
+        "data_types": [
+          "string",
+          "string",
+          "string",
+          "string",
+          "string"
+        ],
+        "units": [],
+        "title": null,
+        "source": null,
+        "notes": [],
+        "extraction_confidence": 1
+      },
+      "ai_enhancements": {
+        "summary": {
+          "brief_summary": "This chart details toll fees for specific locations along NH-27 in Gujarat, differentiating between the construction period and after the completion of six-laning.",
+          "detailed_summary": "The chart presents toll plaza locations, the length of road for which fees are applicable, and the corresponding fee rates. It compares the fee structure during the construction phase with the structure after the road is expanded to six lanes. The chart also includes information on structures with lengths exceeding 60 meters and their impact on toll calculations. The data is presented for two specific locations along NH-27.",
+          "key_observations": [
+            "Toll rates are based on the base rates mentioned in Table 1.",
+            "The fee structure changes after the completion of six-laning.",
+            "Structures longer than 60m are considered separately for toll calculation.",
+            "The chart provides data for two toll plaza locations.",
+            "During construction, the fee is 75% of the base rate."
+          ],
+          "data_range": "Toll fees and structure information for specific locations on NH-27 in Gujarat, covering both the construction period and the post six-laning completion phase.",
+          "audience": "Government agencies, road construction companies, toll operators, and transportation analysts.",
+          "purpose": "To provide a clear overview of the toll fee structure for specific locations on NH-27, including changes associated with road expansion and the treatment of long structures."
+        },
+        "keywords": {
+          "main_topics": [
+            "Toll Fees",
+            "Road Construction",
+            "NH-27",
+            "Gujarat",
+            "Six-Laning"
+          ],
+          "keywords": [
+            "Toll Plaza",
+            "Chainage",
+            "Fee Rate",
+            "Construction Period",
+            "Six-Laning",
+            "Structures",
+            "Equivalent Road Length",
+            "Base Rates",
+            "NH-27",
+            "Rajkot District"
+          ],
+          "categories": [
+            "Location",
+            "Time Period (Construction vs. Post-Construction)",
+            "Fee Rate",
+            "Structure Length"
+          ],
+          "entities": [
+            "NH-27",
+            "Pithadiya village",
+            "Rajkot District",
+            "Bharudi",
+            "Gujarat"
+          ],
+          "industry_relevance": "Transportation, Infrastructure, Road Construction, Toll Management"
+        },
+        "insights": {
+          "key_insights": [
+            "Toll rates are reduced during the construction phase.",
+            "The completion of six-laning leads to a change in the toll fee structure.",
+            "Structures longer than 60m are subject to a different fee calculation method.",
+            "The fee structure is location-specific.",
+            "The fee is based on the base rates mentioned in Table 1."
+          ],
+          "business_implications": "Road construction companies and toll operators need to understand the fee structure to estimate revenue and plan for infrastructure investments. The changes in fees after six-laning completion will impact revenue projections. The separate treatment of long structures requires specific planning and costing.",
+          "recommendations": "Conduct a detailed cost-benefit analysis of the six-laning project, considering the changes in toll revenue. Develop a clear communication strategy to inform users about the toll fee changes. Ensure accurate measurement and accounting for structures exceeding 60m in length.",
+          "limitations": "The chart only provides information for two specific locations. The base rates mentioned in Table 1 are not provided in this chart. The exact methodology for calculating the equivalent road length for structures is not fully detailed.",
+          "comparative_analysis": "The chart allows for a direct comparison of toll rates during the construction period versus after the completion of six-laning. It also allows for a comparison of the fee structure at the two different locations."
+        },
+        "trends": {
+          "trends": [
+            "Toll rates increase after the completion of six-laning.",
+            "The fee structure is consistent across the two locations, with the exception of the location-specific chainage."
+          ],
+          "patterns": [
+            "A pattern of reduced fees during the construction phase followed by an increase after the road is expanded."
+          ],
+          "outliers": [
+            "No obvious outliers are present in the provided data."
+          ],
+          "correlations": [
+            "There is a correlation between the completion of six-laning and an increase in toll rates."
+          ],
+          "growth_rates": [
+            "The growth rate of toll fees is positive after the completion of six-laning."
+          ],
+          "statistical_significance": "The observed patterns appear to be statistically significant, given the clear distinction in fee structures between the construction and post-construction phases."
+        },
+        "Road_Sections": {
+          "road_section_analysis": {
+            "document_type": "Gazette Notification",
+            "road_sections_identified": [
+              {
+                "road_section_name": "NH-27",
+                "start_location": "Km 120.700",
+                "end_location": "Km 120.700",
+                "context": "At Km 120.700 (Existing Km 120.700) of NH-27 near Pithadiya village in Rajkot District of Gujarat",
+                "additional_info": "Existing, near Pithadiya village in Rajkot District of Gujarat"
+              },
+              {
+                "road_section_name": "NH-27",
+                "start_location": "Km 156.800",
+                "end_location": "Km 156.800",
+                "context": "At Km 156.800 (Existing Km 156.800) of NH-27 near Bharudi in Rajkot District of Gujarat",
+                "additional_info": "Existing, near Bharudi in Rajkot District of Gujarat"
+              },
+              {
+                "road_section_name": "NH-8E",
+                "start_location": "Km 156.800",
+                "end_location": "Km 156.800",
+                "context": "At Km 156.800 (Existing Km 156.800) of NH-8E (Ext.) near Bharudi in Rajkot District of Gujarat",
+                "additional_info": "(Ext.) near Bharudi in Rajkot District of Gujarat"
+              }
+            ],
+            "ambiguous_cases": []
+          }
+        }
+      }
+    }
+  ],
+  "summary": {
+    "total_images": 3,
+    "processed_images": 2,
+    "charts_detected": 2,
+    "tables_extracted": 2
+  }
+}

@@ -1,0 +1,64 @@
+[
+  {
+    "page": 1,
+    "filename": "Apple_10K_page1_vector.svg",
+    "path": "/Users/ajith/Code/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/Apple_10K_page1_vector.svg",
+    "width": 612.0,
+    "height": 792.0,
+    "format": "svg",
+    "extraction_method": "pymupdf_vector"
+  },
+  {
+    "page": 23,
+    "image_number": 1,
+    "filename": "Apple_10K_page23_img1.png",
+    "path": "/Users/ajith/Code/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/Apple_10K_page23_img1.png",
+    "width": 1360,
+    "height": 900,
+    "format": "jpeg",
+    "xref": 6,
+    "extraction_method": "pymupdf",
+    "colorspace": 3,
+    "colorspace_name": "DeviceRGB"
+  },
+  {
+    "page": 23,
+    "filename": "Apple_10K_page23_vector.svg",
+    "path": "/Users/ajith/Code/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/Apple_10K_page23_vector.svg",
+    "width": 612.0,
+    "height": 792.0,
+    "format": "svg",
+    "extraction_method": "pymupdf_vector"
+  },
+  {
+    "page": 108,
+    "image_number": 2,
+    "filename": "Apple_10K_page108_img2.png",
+    "path": "/Users/ajith/Code/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/Apple_10K_page108_img2.png",
+    "width": 104,
+    "height": 129,
+    "format": "png",
+    "xref": 7,
+    "extraction_method": "pymupdf",
+    "colorspace": 3,
+    "colorspace_name": "DeviceRGB"
+  },
+  {
+    "page": 108,
+    "filename": "Apple_10K_page108_vector.svg",
+    "path": "/Users/ajith/Code/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/Apple_10K_page108_vector.svg",
+    "width": 612.0,
+    "height": 792.0,
+    "format": "svg",
+    "extraction_method": "pymupdf_vector"
+  },
+  {
+    "page": 119,
+    "filename": "Apple_10K_page119_vector.svg",
+    "path": "/Users/ajith/Code/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/Apple_10K_page119_vector.svg",
+    "width": 612.0,
+    "height": 792.0,
+    "format": "svg",
+    "extraction_method": "pymupdf_vector"
+  }
+]

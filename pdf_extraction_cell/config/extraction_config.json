@@ -1,0 +1,49 @@
+{
+  "text_extraction_method": "pymupdf",
+  "table_extraction_method": "auto",
+  "image_extraction_method": "auto",
+  "table_flavor": "stream",
+  "line_scale": 15,
+  "min_confidence": 85,
+  "output_format": "json",
+  "deduplicate_headers": true,
+  "detect_headers": true,
+  "edge_tol": 50,
+  "row_tol": 2,
+  "filter_non_tabular": true,
+  "min_table_rows": 1,
+  "min_table_cols": 1,
+  "min_cell_density": 0.7,
+  "max_column_variation": 0.5,
+  "max_layout_variance": 0.05,
+  "min_numeric_percentage": 0.25,
+  "max_long_text_percentage": 0.2,
+  "min_image_size": 50,
+  "image_output_format": "png",
+  "image_output_dpi": 600,
+  "extract_vector_graphics": true,
+  "save_image_metadata": true,
+  "extract_pages_as_images": true,
+  "use_fallback_extraction": true,
+  "extraction_settings": {
+    "extract_tables": true,
+    "extract_images": true,
+    "extract_metadata": true,
+    "extract_text": true
+  },
+  "output_settings": {
+    "format": "json",
+    "include_page_numbers": true,
+    "include_coordinates": true
+  },
+  "logging": {
+    "level": "INFO",
+    "log_to_file": true,
+    "log_file": "extraction.log"
+  },
+  "performance": {
+    "batch_size": 10,
+    "parallel_processing": false,
+    "max_workers": 4
+  }
+}

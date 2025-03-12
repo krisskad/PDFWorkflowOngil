@@ -1,0 +1,1176 @@
+{
+  "tables": [
+    {
+      "page": 1,
+      "table_number": 1,
+      "data": [
+        [
+          "नई दिल्ली, 11 माचच, 2025"
+        ],
+        [
+          "का.आ. 1132(अ).— यतः, के न्द्रीय सरकार ने, राष्ट्रीय रािमागच अजधजनयम, 1988 (1988 का 68) की धारा 11"
+        ],
+        [
+          "क\nे  अधीन िारी की गई भारत सरकार के  सड़क पररवहन और रािमागच मंत्रालय की अजधसूचना संख्या का.आ. 1192 (अ),"
+        ],
+        [
+          "दिनांक  03/12/2001  और  संख्या  का.आ.  465  (अ),  दिनांक  26  अप्रैल,  2002  द्वारा  गुिरात  राज्य  में  राष्ट्रीय  रािमागच"
+        ],
+        [
+          "स\nंख्या 8बी के  क्रमिः दकमी 143.00 से दकमी 160.00 (गोंडल-ररबड़ा खंड) तथा दकमी 0.00 से 143.00 और 160.00 से"
+        ],
+        [
+          "दकमी 217.00 (पोरबंिर-रािकोट-बामनबोर खंड) के  खंडों को भारतीय राष्ट्रीय रािमागच प्राजधकरण (जिसे इसके  पश्चात्"
+        ],
+        [
+          "‘प्राजधकरण’ कहा िाए) को सुपुिच दकया है;"
+        ],
+        [
+          "और  यतः,  प्राजधकरण  ने,  राष्ट्रीय  रािमागच  संख्या  बबी  (एनएच  बबी)  के   दकमी  11..00  से  दकमी  13..00"
+        ],
+        [
+          "(िेतपुर-गोंडल सेक्िन) और दकमी 1.5.00 से दकमी 1ब5.00 (रािकोट बाईपास) के  मौिूिा जहस्ट्से को िो लेन से चार लेन"
+        ],
+        [
+          "तक चौड़ा करने और दकमी 13..00 से दकमी 1.5.00 (गोंडल-रािकोट सेक्िन) के  मौिूिा चार लेन के  जहस्ट्से में सुधार"
+        ],
+        [
+          "करने और बीओटी (टोल) आधार पर और उक्त खंड के  संचालन और रखरखाव  हेतु पजश्चम गुिरात एक्सप्रेसवे जलजमटेड,"
+        ],
+        [
+          "जिसका  पंिीकृ त  कायाचलय आईएलएंडएफएस  फाइनेंजियल सेंटर, प्लॉट सी-22, िी-ब्लॉक, बांरा  कु लाच  कॉम्पप्लेक्स, बांरा"
+        ]
+      ],
+      "metadata": {
+        "accuracy": 100.00000000000001,
+        "extraction_method": "camelot_direct",
+        "flavor": "stream",
+        "whitespace": 0.0,
+        "headers": [
+          "अजधसूचना"
+        ],
+        "shape": [
+          12,
+          1
+        ],
+        "has_detected_header": true,
+        "cleaned_empty_rows": true,
+        "headers_cleaned": true,
+        "alignment_fixed": true
+      },
+      "ai_enhancements": {
+        "table_type": {
+          "type": "Legal/Governmental",
+          "subtypes": [
+            "Notification",
+            "Infrastructure",
+            "Roadways"
+          ],
+          "purpose": "To announce the transfer of sections of National Highway 8B to the National Highways Authority of India and outline planned improvements.",
+          "data_category": "Infrastructure projects, legal notifications, highway sections",
+          "confidence": 0.95
+        },
+        "summary": {
+          "brief_summary": "This table is a legal notification regarding the transfer of sections of National Highway 8B in Gujarat to the National Highways Authority of India and details planned road widening and improvement projects.",
+          "detailed_summary": "The notification references previous notifications related to the transfer of highway sections. It specifies the sections of National Highway 8B being transferred, including kilometer ranges. It also outlines plans for widening existing two-lane sections to four lanes and improving existing four-lane sections, with the projects to be undertaken on a BOT (Toll) basis. The notification mentions specific sections like Jetpur-Gondal, Rajkot bypass, and Gondal-Rajkot sections.",
+          "key_observations": [
+            "Sections of National Highway 8B are being transferred to the National Highways Authority of India.",
+            "Road widening and improvement projects are planned for specific sections of the highway.",
+            "The projects will be undertaken on a BOT (Toll) basis.",
+            "Specific kilometer ranges and section names are provided for the projects.",
+            "The notification references previous government notifications related to the highway."
+          ],
+          "data_range": "Specific sections of National Highway 8B in Gujarat, India, with kilometer ranges and project details.",
+          "audience": "Government officials, infrastructure developers, legal professionals, and anyone involved in or affected by the highway projects."
+        },
+        "keywords": {
+          "main_topics": [
+            "National Highway 8B",
+            "Road Infrastructure",
+            "National Highways Authority of India",
+            "BOT (Toll) Projects",
+            "Gujarat"
+          ],
+          "keywords": [
+            "Notification",
+            "Highway",
+            "Transfer",
+            "Widening",
+            "Improvement",
+            "Kilometer",
+            "Sections",
+            "BOT",
+            "Gujarat",
+            "Rajkot"
+          ],
+          "categories": [
+            "Highway Sections",
+            "Project Details",
+            "Legal References",
+            "Financial Model (BOT)"
+          ],
+          "entities": [
+            "National Highway 8B",
+            "National Highways Authority of India",
+            "Gujarat",
+            "Gondal",
+            "Rajkot",
+            "Jetpur",
+            "IL&FS Financial Centre"
+          ]
+        },
+        "insights": {
+          "key_insights": [
+            "The government is actively transferring and developing highway infrastructure.",
+            "The BOT model is being used for highway projects, indicating a public-private partnership.",
+            "Specific sections of the highway are targeted for improvement, suggesting a strategic approach.",
+            "The notification provides legal clarity and official sanction for the projects.",
+            "The project aims to improve connectivity and potentially reduce travel times."
+          ],
+          "trends": "The trend is towards infrastructure development and improvement of national highways.",
+          "anomalies": "No obvious anomalies are present in the provided text.",
+          "comparisons": "The notification implicitly compares the existing road conditions with the planned improvements.",
+          "data_quality_issues": "The text is a legal notification and appears to be complete. No data quality issues are apparent."
+        },
+        "Road_Sections": {
+          "analysis": {
+            "document_title": "Unknown",
+            "headers": [
+              "अजधसूचना"
+            ],
+            "road_sections": [
+              {
+                "complete_name": "गोंडल-ररबड़ा खंड",
+                "start_location": "गोंडल",
+                "end_location": "ररबड़ा",
+                "naming_convention": "[Location]-[Location] खंड",
+                "additional_info": "km 143.00 से km 160.00, राष्ट्रीय रािमागच संख्या 8बी के खंड",
+                "context": "गुिरात राज्य में राष्ट्रीय रािमागच संख्या 8बी के क्रमिः दकमी 143.00 से दकमी 160.00 (गोंडल-ररबड़ा खंड) तथा दकमी 0.00 से 143.00 और 160.00 से दकमी 217.00 (पोरबंिर-रािकोट-बामनबोर खंड) के खंडों को भारतीय राष्ट्रीय रािमागच प्राजधकरण (जिसे इसके पश्चात् ‘प्राजधकरण’ कहा िाए) को सुपुिच दकया है",
+                "ambiguity_flag": false
+              },
+              {
+                "complete_name": "पोरबंिर-रािकोट-बामनबोर खंड",
+                "start_location": "पोरबंिर",
+                "end_location": "बामनबोर",
+                "naming_convention": "[Location]-[Location]-[Location] खंड",
+                "additional_info": "km 0.00 से 143.00 और 160.00 से दकमी 217.00, राष्ट्रीय रािमागच संख्या 8बी के खंड",
+                "context": "गुिरात राज्य में राष्ट्रीय रािमागच संख्या 8बी के क्रमिः दकमी 143.00 से दकमी 160.00 (गोंडल-ररबड़ा खंड) तथा दकमी 0.00 से 143.00 और 160.00 से दकमी 217.00 (पोरबंिर-रािकोट-बामनबोर खंड) के खंडों को भारतीय राष्ट्रीय रािमागच प्राजधकरण (जिसे इसके पश्चात् ‘प्राजधकरण’ कहा िाए) को सुपुिच दकया है",
+                "ambiguity_flag": false
+              },
+              {
+                "complete_name": "िेतपुर-गोंडल सेक्िन",
+                "start_location": "िेतपुर",
+                "end_location": "गोंडल",
+                "naming_convention": "[Location]-[Location] सेक्िन",
+                "additional_info": "km 11..00 से km 13..00, राष्ट्रीय रािमागच संख्या बबी (एनएच बबी) के खंड",
+                "context": "प्राजधकरण ने, राष्ट्रीय रािमागच संख्या बबी (एनएच बबी) के दकमी 11..00 से दकमी 13..00 (िेतपुर-गोंडल सेक्िन) और दकमी 1.5.00 से दकमी 1ब5.00 (रािकोट बाईपास) के मौिूिा जहस्ट्से को िो लेन से चार लेन तक चौड़ा करने और दकमी 13..00 से दकमी 1.5.00 (गोंडल-रािकोट सेक्िन) के मौिूिा चार लेन के जहस्ट्से में सुधार करने",
+                "ambiguity_flag": false
+              },
+              {
+                "complete_name": "गोंडल-रािकोट सेक्िन",
+                "start_location": "गोंडल",
+                "end_location": "रािकोट",
+                "naming_convention": "[Location]-[Location] सेक्िन",
+                "additional_info": "km 13..00 से km 1.5.00, राष्ट्रीय रािमागच संख्या बबी (एनएच बबी) के खंड",
+                "context": "प्राजधकरण ने, राष्ट्रीय रािमागच संख्या बबी (एनएच बबी) के दकमी 11..00 से दकमी 13..00 (िेतपुर-गोंडल सेक्िन) और दकमी 1.5.00 से दकमी 1ब5.00 (रािकोट बाईपास) के मौिूिा जहस्ट्से को िो लेन से चार लेन तक चौड़ा करने और दकमी 13..00 से दकमी 1.5.00 (गोंडल-रािकोट सेक्िन) के मौिूिा चार लेन के जहस्ट्से में सुधार करने",
+                "ambiguity_flag": false
+              },
+              {
+                "complete_name": "रािकोट बाईपास",
+                "start_location": "रािकोट",
+                "end_location": "बाईपास",
+                "naming_convention": "[Location] बाईपास",
+                "additional_info": "km 1.5.00 से km 1ब5.00, राष्ट्रीय रािमागच संख्या बबी (एनएच बबी) के खंड",
+                "context": "प्राजधकरण ने, राष्ट्रीय रािमागच संख्या बबी (एनएच बबी) के दकमी 11..00 से दकमी 13..00 (िेतपुर-गोंडल सेक्िन) और दकमी 1.5.00 से दकमी 1ब5.00 (रािकोट बाईपास) के मौिूिा जहस्ट्से को िो लेन से चार लेन तक चौड़ा करने और दकमी 13..00 से दकमी 1.5.00 (गोंडल-रािकोट सेक्िन) के मौिूिा चार लेन के जहस्ट्से में सुधार करने",
+                "ambiguity_flag": false
+              }
+            ],
+            "unique_road_sections": [
+              "गोंडल-ररबड़ा खंड",
+              "पोरबंिर-रािकोट-बामनबोर खंड",
+              "िेतपुर-गोंडल सेक्िन",
+              "गोंडल-रािकोट सेक्िन",
+              "रािकोट बाईपास"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "page": 3,
+      "table_number": 3,
+      "data": [
+        [
+          "THE GAZETTE OF INDIA : EXTRAORDINARY \n6",
+          ""
+        ],
+        [
+          "Light Commercial Vehicle, Light Goods Vehicle or Mini Bus",
+          "1.05"
+        ],
+        [
+          "Bus or Truck (Two Axles)",
+          "2.20"
+        ],
+        [
+          "Three-Axle Commercial Vehicles",
+          "2.40"
+        ],
+        [
+          "Heavy Construction Machinery (HCM) or Earth Moving Equipment (EME)",
+          "3.45"
+        ],
+        [
+          "or Multi Axle Vehicle (MAV) (four to six axles)",
+          ""
+        ],
+        [
+          "Oversized Vehicles (seven or more axles)",
+          "4.20"
+        ]
+      ],
+      "metadata": {
+        "accuracy": 99.99999999999999,
+        "extraction_method": "camelot_direct",
+        "flavor": "stream",
+        "whitespace": 14.285714285714285,
+        "headers": [],
+        "shape": [
+          7,
+          2
+        ],
+        "cleaned_empty_rows": true,
+        "headers_cleaned": true,
+        "alignment_fixed": true
+      },
+      "ai_enhancements": {
+        "table_type": {
+          "type": "Reference",
+          "subtypes": [
+            "Classification",
+            "Fee Schedule"
+          ],
+          "purpose": "To provide a schedule of fees or charges based on vehicle type.",
+          "data_category": "Vehicle specifications and associated fees",
+          "confidence": 0.95
+        },
+        "summary": {
+          "brief_summary": "This table outlines a fee structure for different types of commercial vehicles, likely related to road usage or permits.",
+          "detailed_summary": "The table presents a classification of commercial vehicles, ranging from light commercial vehicles to oversized vehicles with seven or more axles. Each vehicle type is associated with a specific numerical value, presumably representing a fee or charge. The values increase with the size and complexity of the vehicle, suggesting a tiered pricing system.",
+          "key_observations": [
+            "The table categorizes vehicles based on size and axle count.",
+            "Fees increase with vehicle size and axle count.",
+            "The fee for oversized vehicles is the highest.",
+            "The table likely represents a fee schedule for road usage or permits."
+          ],
+          "data_range": "Vehicle types and associated fees.",
+          "audience": "Government agencies, transportation authorities, and commercial vehicle operators."
+        },
+        "keywords": {
+          "main_topics": [
+            "Vehicle Classification",
+            "Fees",
+            "Commercial Vehicles",
+            "Axles",
+            "Road Usage"
+          ],
+          "keywords": [
+            "Light Commercial Vehicle",
+            "Bus",
+            "Truck",
+            "Three-Axle",
+            "Heavy Construction Machinery",
+            "Multi Axle Vehicle",
+            "Oversized Vehicles",
+            "Axles",
+            "Fee",
+            "Gazette"
+          ],
+          "categories": [
+            "Vehicle Type",
+            "Fee"
+          ],
+          "entities": [
+            "Gazette of India"
+          ]
+        },
+        "insights": {
+          "key_insights": [
+            "The fee structure is directly related to the size and weight of the vehicle.",
+            "There is a clear progression in fees as vehicle size increases.",
+            "The table suggests a system designed to manage and potentially regulate commercial vehicle traffic.",
+            "The fee structure could be used to generate revenue or to incentivize the use of smaller vehicles."
+          ],
+          "trends": [
+            "A positive correlation between vehicle size/axle count and the associated fee."
+          ],
+          "anomalies": [],
+          "comparisons": [
+            "The fee for a Light Commercial Vehicle is significantly lower than that for Oversized Vehicles."
+          ],
+          "data_quality_issues": [
+            "The specific unit of the fee is not explicitly stated (e.g., currency)."
+          ]
+        },
+        "Road_Sections": {
+          "analysis": {
+            "document_type": "Gazette",
+            "road_section_extraction": {
+              "methodology": "Pattern matching for '[Location]-[Location] section' and variations, context analysis.",
+              "road_sections_found": [],
+              "ambiguous_cases": [],
+              "variations_identified": [],
+              "context_analysis": "The provided text does not contain any road section names or related context. It lists toll rates for different types of vehicles."
+            }
+          }
+        }
+      }
+    },
+    {
+      "page": 3,
+      "table_number": 4,
+      "data": [
+        [
+          "mentioned in Table 1 above, for the distance specified for such Fee Plaza(s), namely: -",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Table-2",
+          ""
+        ],
+        [
+          "",
+          "During Construction period",
+          "",
+          "After Completion of six laning"
+        ],
+        [
+          "Location of Toll Plaza",
+          "Length (in km) for",
+          "Rate at which fee is payable Length (in km) for",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Rate at which fee"
+        ],
+        [
+          "(chainage)",
+          "which Fee is",
+          "which Fee is",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "is payable"
+        ],
+        [
+          "",
+          "payable",
+          "payable",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "100% for four or"
+        ],
+        [
+          "At Km 120.700 (Existing",
+          "33.700",
+          "33.700",
+          ""
+        ],
+        [
+          "",
+          "",
+          "75% of the base rates",
+          "more lane, of the"
+        ],
+        [
+          "Km 120.700) of NH-27",
+          "[Excluding length",
+          "[Excluding length",
+          ""
+        ],
+        [
+          "",
+          "",
+          "mentioned in Table 1 above",
+          "base"
+        ],
+        [
+          "near Pithadiya village in",
+          "of Structures",
+          "of Structures",
+          ""
+        ],
+        [
+          "",
+          "",
+          "without annual revision",
+          "rates mentioned in"
+        ],
+        [
+          "Rajkot District of Gujarat",
+          "(>60m)]",
+          "(>60m)]",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Table 1 above"
+        ],
+        [
+          "",
+          "",
+          "",
+          "100% for four or"
+        ],
+        [
+          "At Km 156.800 (Existing",
+          "32.58715",
+          "31.48715",
+          ""
+        ],
+        [
+          "",
+          "",
+          "75% of the base rates",
+          "more lane,  of the"
+        ],
+        [
+          "Km 156.800) of NH-27",
+          "[Excluding length",
+          "[Excluding length",
+          ""
+        ],
+        [
+          "",
+          "",
+          "mentioned in Table 1 above",
+          "base"
+        ],
+        [
+          "near Bharudi in Rajkot",
+          "of Structures",
+          "of Structures",
+          ""
+        ],
+        [
+          "",
+          "",
+          "without annual revision",
+          "rates mentioned in"
+        ],
+        [
+          "District of Gujarat",
+          "(>60m)]",
+          "(>60m)]",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Table 1 above"
+        ]
+      ],
+      "metadata": {
+        "accuracy": 96.67328583484365,
+        "extraction_method": "camelot_direct",
+        "flavor": "stream",
+        "whitespace": 48.07692307692308,
+        "headers": [],
+        "shape": [
+          26,
+          4
+        ],
+        "cleaned_empty_rows": true,
+        "headers_cleaned": true,
+        "alignment_fixed": true
+      },
+      "ai_enhancements": {
+        "table_type": {
+          "type": "Comparative",
+          "subtypes": [
+            "Toll Rate Comparison",
+            "Construction vs. Post-Construction"
+          ],
+          "purpose": "To compare toll rates at different stages of a road project (construction vs. completion) and at different locations.",
+          "data_category": "Toll Rates, Road Lengths, Construction Phases",
+          "confidence": 0.9
+        },
+        "summary": {
+          "brief_summary": "This table compares toll rates at various toll plazas during the construction phase and after the completion of six-laning, along with the corresponding lengths of road for which the fee is applicable.",
+          "detailed_summary": "The table presents toll rates for different locations (toll plazas) on a highway, differentiating between the construction period and the post-completion phase (six-laning). It specifies the road length for which the fee is charged and the rate structure. The rate structure changes after the completion of six-laning, with a percentage-based fee applied. The table likely aims to show the changes in toll charges as the road infrastructure improves.",
+          "key_observations": [
+            "Toll rates are different during the construction and post-completion phases.",
+            "The length of road for which the fee is payable is specified for each toll plaza.",
+            "Post-completion toll rates are calculated as a percentage of the base rates.",
+            "The table provides a location (chainage) for each toll plaza.",
+            "The table excludes the length of structures from the fee calculation."
+          ],
+          "data_range": "Covers toll rates and road lengths for various toll plazas during construction and after the completion of six-laning.",
+          "audience": "Highway project managers, financial analysts, government agencies involved in infrastructure projects, and potentially the public."
+        },
+        "keywords": {
+          "main_topics": [
+            "Toll Rates",
+            "Road Construction",
+            "Six-Laning",
+            "Fee Plaza Locations",
+            "Road Length"
+          ],
+          "keywords": [
+            "Construction",
+            "Completion",
+            "Toll Plaza",
+            "Rate",
+            "Length",
+            "Fee",
+            "NH-27",
+            "Chainage",
+            "Structures",
+            "Base Rates"
+          ],
+          "categories": [
+            "Location of Toll Plaza",
+            "Length (in km) for which Fee is payable",
+            "Rate at which fee is payable (During Construction period)",
+            "Length (in km) for which Fee is payable",
+            "Rate at which fee is payable (After Completion of six laning)"
+          ],
+          "entities": [
+            "NH-27",
+            "Pithadiya village"
+          ]
+        },
+        "insights": {
+          "key_insights": [
+            "Toll rates are likely to increase after the completion of six-laning, reflecting infrastructure improvements.",
+            "The table highlights the impact of construction on toll charges.",
+            "The exclusion of structures from the fee calculation suggests a specific methodology for determining payable road length.",
+            "The use of percentages for post-completion rates indicates a dynamic pricing model.",
+            "The table provides a clear comparison of toll structures before and after project completion."
+          ],
+          "trends": [
+            "A trend of increasing toll rates after the completion of the project is expected."
+          ],
+          "anomalies": [
+            "No anomalies are apparent without the full data set."
+          ],
+          "comparisons": [
+            "Comparison of toll rates during construction vs. after six-laning.",
+            "Comparison of road lengths for fee calculation during different phases."
+          ],
+          "data_quality_issues": [
+            "Incomplete data: The table is truncated, making it difficult to assess the full scope and identify potential inconsistencies or missing values in the full dataset."
+          ]
+        },
+        "Road_Sections": {
+          "analysis": {
+            "road_section_names": [],
+            "variations": [],
+            "additional_descriptors": [],
+            "context": [
+              "construction period",
+              "After Completion of six laning",
+              "Location of Toll Plaza",
+              "Length (in km) for",
+              "Rate at which fee is payable"
+            ],
+            "ambiguous_cases": [],
+            "summary": "The provided text does not contain any road section names in the specified format. The context revolves around toll plaza locations, lengths, and fee structures during and after construction."
+          }
+        }
+      }
+    },
+    {
+      "page": 3,
+      "table_number": 5,
+      "data": [
+        [
+          "",
+          "",
+          "Table-3",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "After Completion of six laning",
+          ""
+        ],
+        [
+          "",
+          "During Construction period",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Location of Fee",
+          "Length of \nEquivalent",
+          "Rate at which \nLength of",
+          "Equivalent",
+          "Rate at which"
+        ],
+        [
+          "Plaza (Chainage)",
+          "structures (in \nroad length",
+          "fee is payable \nstructures (in",
+          "road length",
+          "fee is payable"
+        ],
+        [
+          "",
+          "km) to be \n(in km)",
+          "km) to be",
+          "(in km)",
+          ""
+        ],
+        [
+          "",
+          "converted into",
+          "converted into",
+          "",
+          ""
+        ],
+        [
+          "",
+          "equivalent road",
+          "equivalent road",
+          "",
+          ""
+        ],
+        [
+          "",
+          "length",
+          "length",
+          "",
+          ""
+        ],
+        [
+          "At Km 156.800",
+          "",
+          "75% of the base",
+          "",
+          "100% for four"
+        ],
+        [
+          "(Existing Km",
+          "11.1285* \n1.11285",
+          "rates mentioned \n2.21285**",
+          "22.1285",
+          "or more lane of"
+        ],
+        [
+          "156.800) of NH-8E",
+          "",
+          "in Table 1 above",
+          "",
+          "the base rates"
+        ]
+      ],
+      "metadata": {
+        "accuracy": 97.74081719259452,
+        "extraction_method": "camelot_direct",
+        "flavor": "stream",
+        "whitespace": 45.0,
+        "headers": [],
+        "shape": [
+          12,
+          5
+        ],
+        "cleaned_empty_rows": true,
+        "headers_cleaned": true,
+        "alignment_fixed": true
+      },
+      "ai_enhancements": {
+        "table_type": {
+          "type": "Comparative",
+          "subtypes": [
+            "Fee Structure",
+            "Road Infrastructure"
+          ],
+          "purpose": "To compare and contrast the fee structure for a toll plaza during construction and after completion of six-laning.",
+          "data_category": "Road infrastructure, Toll fees",
+          "confidence": 0.9
+        },
+        "summary": {
+          "brief_summary": "This table outlines the fee structure at a toll plaza (Km 156.800 on NH-8E) during the construction phase and after the completion of six-laning, detailing the rate at which fees are payable based on equivalent road length.",
+          "detailed_summary": "The table presents a comparison of fee calculation methods before and after the six-laning project. During construction, the fee is based on 75% of the base rates mentioned in Table 1, applied to an equivalent road length. After completion of six-laning, the fee is 100% of the base rates for four or more lanes, also based on equivalent road length. The table specifies the equivalent road length calculation for the construction phase.",
+          "key_observations": [
+            "The fee structure changes significantly after the completion of six-laning.",
+            "The fee during construction is a percentage of the base rate.",
+            "The fee after six-laning is 100% of the base rate.",
+            "The equivalent road length is a key factor in determining the fee.",
+            "The table refers to a 'Table 1' for base rates, which is not included in the provided context."
+          ],
+          "data_range": "Covers the fee structure at a specific toll plaza (Km 156.800 of NH-8E) during the construction period and after the completion of six-laning.",
+          "audience": "Highway authorities, toll operators, and potentially contractors or financial analysts involved in the project."
+        },
+        "keywords": {
+          "main_topics": [
+            "Toll Plaza",
+            "Fee Structure",
+            "Road Construction",
+            "Six-Laning",
+            "Equivalent Road Length"
+          ],
+          "keywords": [
+            "Fee",
+            "Rate",
+            "Construction",
+            "Six-laning",
+            "Equivalent Road Length",
+            "NH-8E",
+            "Km 156.800",
+            "Base Rates",
+            "Table 1",
+            "Toll"
+          ],
+          "categories": [
+            "Location (Chainage)",
+            "Construction Phase",
+            "Post-Construction Phase",
+            "Equivalent Road Length",
+            "Fee Rate"
+          ],
+          "entities": [
+            "NH-8E",
+            "Table 1"
+          ]
+        },
+        "insights": {
+          "key_insights": [
+            "The fee structure is designed to be lower during the construction phase.",
+            "The completion of six-laning leads to a higher fee rate.",
+            "The equivalent road length is a critical factor in determining the payable fee.",
+            "The table highlights the financial impact of infrastructure improvements.",
+            "The reference to 'Table 1' suggests this table is part of a larger document providing base rate information."
+          ],
+          "trends": [
+            "The trend is towards a higher fee rate after infrastructure improvements (six-laning)."
+          ],
+          "anomalies": [
+            "The use of asterisks (**, *) in the 'During Construction period' section could indicate notes or calculations that are not fully explained in the table itself."
+          ],
+          "comparisons": [
+            "Comparison of fee rates during construction (75% of base) versus after six-laning (100% of base).",
+            "Comparison of the equivalent road length calculation during construction and after completion."
+          ],
+          "data_quality_issues": [
+            "The table refers to 'Table 1' without providing its content, which limits the understanding of the base rates.",
+            "The meaning of the asterisks is unclear without additional context."
+          ]
+        },
+        "Road_Sections": {
+          "analysis": {
+            "road_section_names": [],
+            "variations": [],
+            "ambiguous_cases": [],
+            "context_analysis": "The provided text does not contain any road section names in the specified format. It focuses on fee structures, road length calculations, and lane configurations related to a highway (NH-8E).",
+            "additional_information": "The document includes information about road length, fee calculations, and lane configurations, but no specific road section names are mentioned."
+          }
+        }
+      }
+    },
+    {
+      "page": 3,
+      "table_number": 6,
+      "data": [
+        [
+          "",
+          "Gujarat",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "*The details are as under: -",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Chainage",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Type of Structure",
+          "Length (in km)"
+        ],
+        [
+          "",
+          "From Km",
+          "To Km",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "165.450",
+          "165.550",
+          "Flyover",
+          "0.1001"
+        ],
+        [
+          "2",
+          "174.510",
+          "175.350",
+          "Flyover",
+          "0.84001"
+        ],
+        [
+          "3",
+          "178.051575",
+          "178.132425",
+          "Major Bridge",
+          "0.080853"
+        ],
+        [
+          "4",
+          "179.346",
+          "179.438",
+          "Major Bridge",
+          "0.092003"
+        ],
+        [
+          "",
+          "",
+          "Total Structure Length which are > 60m",
+          "",
+          "1.11285"
+        ]
+      ],
+      "metadata": {
+        "accuracy": 96.44944782152449,
+        "extraction_method": "camelot_direct",
+        "flavor": "stream",
+        "whitespace": 42.0,
+        "headers": [],
+        "shape": [
+          10,
+          5
+        ],
+        "cleaned_empty_rows": true,
+        "headers_cleaned": true,
+        "alignment_fixed": true,
+        "merged_cells": [
+          [
+            6,
+            3,
+            "vertical"
+          ],
+          [
+            8,
+            3,
+            "vertical"
+          ]
+        ],
+        "has_merged_cells": true
+      },
+      "ai_enhancements": {
+        "table_type": {
+          "type": "Reference",
+          "subtypes": [
+            "Infrastructure",
+            "Construction"
+          ],
+          "purpose": "To provide details of structures along a road or railway line.",
+          "data_category": "Engineering and Construction Data",
+          "confidence": 0.95
+        },
+        "summary": {
+          "brief_summary": "This table details the structures (flyovers and bridges) along a specific route in Gujarat, including their chainage and lengths.",
+          "detailed_summary": "The table presents information about flyovers and major bridges constructed or planned along a route in Gujarat. It specifies the chainage (kilometer markers) where each structure begins and ends, the type of structure, and its length. The table also includes a total length of structures exceeding 60 meters. The data provides a snapshot of infrastructure development along a specific section of a route.",
+          "key_observations": [
+            "The table lists two flyovers and two major bridges.",
+            "The flyovers have lengths of 0.1001 km and 0.84001 km.",
+            "The major bridges have lengths of 0.080853 km and 0.092003 km.",
+            "The total length of structures greater than 60m is 1.11285 km."
+          ],
+          "data_range": "Specific section of a route in Gujarat.",
+          "audience": "Civil engineers, infrastructure planners, and government officials involved in road or railway projects."
+        },
+        "keywords": {
+          "main_topics": [
+            "Infrastructure",
+            "Construction",
+            "Bridges",
+            "Flyovers",
+            "Gujarat"
+          ],
+          "keywords": [
+            "Chainage",
+            "Kilometers",
+            "Flyover",
+            "Major Bridge",
+            "Structure",
+            "Length",
+            "Gujarat",
+            "Infrastructure"
+          ],
+          "categories": [
+            "Chainage (From Km, To Km)",
+            "Type of Structure",
+            "Length (in km)"
+          ],
+          "entities": [
+            "Gujarat"
+          ]
+        },
+        "insights": {
+          "key_insights": [
+            "The table provides a concise overview of the types and lengths of structures along a specific route.",
+            "The data suggests ongoing infrastructure development in the region.",
+            "The total length of structures exceeding 60m is a key metric for project assessment.",
+            "The table allows for easy comparison of the lengths of different structure types."
+          ],
+          "trends": "No clear trends can be determined from this small dataset.",
+          "anomalies": "No anomalies are apparent.",
+          "comparisons": "The table allows for a direct comparison of the lengths of flyovers and bridges.",
+          "data_quality_issues": "The table is well-formatted, but the lack of context makes it difficult to assess data quality fully. The units are clearly defined."
+        },
+        "Road_Sections": {
+          "analysis": {
+            "document_overview": "The document provides details about structures (flyovers and bridges) along a road in Gujarat, including chainage (kilometer markers) and lengths. It does not explicitly mention road section names in the expected format.",
+            "road_section_extraction": {
+              "pattern_match": "The document does not contain any road section names in the format '[Location]-[Location] section'.",
+              "variations_considered": "No variations of the road section naming convention were found in the document.",
+              "ambiguous_cases": "No ambiguous cases were identified as no road section names were present.",
+              "road_section_names": [],
+              "additional_information": "The document focuses on the structures and their lengths, not on road sections as defined by location names.",
+              "context": "The context is related to the structures (flyovers and bridges) along a road in Gujarat, with details on chainage and length."
+            }
+          }
+        }
+      }
+    },
+    {
+      "page": 4,
+      "table_number": 7,
+      "data": [
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "7"
+        ],
+        [
+          "[भाग II—खण् ड 3(ii)]",
+          "",
+          "भारत का रािपत्र : असाधारण",
+          "",
+          "",
+          ""
+        ],
+        [
+          "**The details are as under: -",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Chainage",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Type of Structure",
+          "Length (in km)",
+          ""
+        ],
+        [
+          "",
+          "From Km",
+          "To Km",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "165.450",
+          "165.550",
+          "Flyover",
+          "0.100",
+          ""
+        ],
+        [
+          "2",
+          "172.200",
+          "173.300",
+          "Elevated Structure",
+          "1.100",
+          ""
+        ],
+        [
+          "3",
+          "174.510",
+          "175.350",
+          "Flyover",
+          "0.8400",
+          ""
+        ],
+        [
+          "4",
+          "178.051575",
+          "178.132425",
+          "Major Bridge",
+          "0.08085",
+          ""
+        ],
+        [
+          "5",
+          "179.346",
+          "179.438",
+          "Major Bridge",
+          "0.09200",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Total Structure Length which are > 60m",
+          "",
+          "2.21285",
+          ""
+        ]
+      ],
+      "metadata": {
+        "accuracy": 94.98817400340393,
+        "extraction_method": "camelot_direct",
+        "flavor": "stream",
+        "whitespace": 50.0,
+        "headers": [],
+        "shape": [
+          12,
+          6
+        ],
+        "cleaned_empty_rows": true,
+        "headers_cleaned": true,
+        "alignment_fixed": true,
+        "merged_cells": [
+          [
+            10,
+            3,
+            "vertical"
+          ]
+        ],
+        "has_merged_cells": true
+      },
+      "ai_enhancements": {
+        "table_type": {
+          "type": "Reference",
+          "subtypes": [
+            "Infrastructure",
+            "Construction"
+          ],
+          "purpose": "To provide details of structures along a road or railway, likely for engineering or project management purposes.",
+          "data_category": "Engineering and Construction Data",
+          "confidence": 0.95
+        },
+        "summary": {
+          "brief_summary": "This table details various structures (flyovers, elevated structures, and bridges) along a specific route, including their chainage (location) and length.",
+          "detailed_summary": "The table presents information about different types of structures, such as flyovers, elevated structures, and major bridges, along a route. It specifies the 'From Km' and 'To Km' chainage, indicating the start and end points of each structure. The table also provides the length of each structure in kilometers and calculates the total length of structures exceeding 60 meters.",
+          "key_observations": [
+            "The table lists five distinct structures.",
+            "The structures include flyovers, elevated structures, and major bridges.",
+            "The lengths of the structures vary significantly, from 0.08085 km to 1.100 km.",
+            "The total length of structures greater than 60m is 2.21285 km.",
+            "The chainage values indicate the location of the structures along a route."
+          ],
+          "data_range": "Chainage along a route, likely a road or railway, with structures described between Km 165.450 and Km 179.438.",
+          "audience": "Civil engineers, project managers, infrastructure planners, and government officials involved in road or railway projects."
+        },
+        "keywords": {
+          "main_topics": [
+            "Infrastructure",
+            "Structures",
+            "Chainage",
+            "Length",
+            "Bridges/Flyovers"
+          ],
+          "keywords": [
+            "Flyover",
+            "Elevated Structure",
+            "Major Bridge",
+            "Chainage",
+            "Km",
+            "Length",
+            "Structure",
+            "Infrastructure",
+            "Road",
+            "Railway"
+          ],
+          "categories": [
+            "Structure Type",
+            "Chainage (From Km, To Km)",
+            "Length (in km)"
+          ],
+          "entities": []
+        },
+        "insights": {
+          "key_insights": [
+            "The table provides a snapshot of the types and locations of structures along a specific route.",
+            "The data can be used to assess the overall infrastructure development along the route.",
+            "The length data allows for calculating material requirements and project costs.",
+            "The table highlights the presence of different types of structures, indicating the complexity of the route.",
+            "The total length of structures exceeding 60m provides a useful summary metric."
+          ],
+          "trends": "There are no clear trends visible in this static data, as it represents a snapshot of existing structures.",
+          "anomalies": "There are no obvious anomalies, although the varying lengths of the structures are notable.",
+          "comparisons": "The table allows for comparing the lengths of different types of structures (e.g., flyovers vs. bridges).",
+          "data_quality_issues": "The data appears consistent, but the precision of the chainage values (e.g., 178.051575) might suggest a high level of accuracy in measurement, which should be verified."
+        },
+        "Road_Sections": {
+          "analysis": {
+            "road_sections_found": [],
+            "variations_in_naming": [],
+            "ambiguous_cases": [],
+            "context_analysis": "The document provides details about structures (flyovers, elevated structures, bridges) along a road, specifying chainage (kilometer markers) and lengths. It does not explicitly mention road section names in the format requested. Therefore, no road sections were found based on the provided pattern.",
+            "additional_notes": "The document focuses on specific structures within a road, not on named road sections. The chainage information (From Km, To Km) could potentially be used to define road segments, but they are not named as road sections in the format requested."
+          }
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "count": 6,
+    "processed_timestamp": "2025-03-12 18:37:29",
+    "processor_version": "1.0"
+  }
+}

@@ -1,0 +1,577 @@
+[
+  {
+    "page": 1,
+    "table_number": 1,
+    "data": [
+      [
+        "नई दिल्ली, 11 माचच, 2025"
+      ],
+      [
+        "का.आ. 1132(अ).— यतः, के न्द्रीय सरकार ने, राष्ट्रीय रािमागच अजधजनयम, 1988 (1988 का 68) की धारा 11"
+      ],
+      [
+        "क\nे  अधीन िारी की गई भारत सरकार के  सड़क पररवहन और रािमागच मंत्रालय की अजधसूचना संख्या का.आ. 1192 (अ),"
+      ],
+      [
+        "दिनांक  03/12/2001  और  संख्या  का.आ.  465  (अ),  दिनांक  26  अप्रैल,  2002  द्वारा  गुिरात  राज्य  में  राष्ट्रीय  रािमागच"
+      ],
+      [
+        "स\nंख्या 8बी के  क्रमिः दकमी 143.00 से दकमी 160.00 (गोंडल-ररबड़ा खंड) तथा दकमी 0.00 से 143.00 और 160.00 से"
+      ],
+      [
+        "दकमी 217.00 (पोरबंिर-रािकोट-बामनबोर खंड) के  खंडों को भारतीय राष्ट्रीय रािमागच प्राजधकरण (जिसे इसके  पश्चात्"
+      ],
+      [
+        "‘प्राजधकरण’ कहा िाए) को सुपुिच दकया है;"
+      ],
+      [
+        "और  यतः,  प्राजधकरण  ने,  राष्ट्रीय  रािमागच  संख्या  बबी  (एनएच  बबी)  के   दकमी  11..00  से  दकमी  13..00"
+      ],
+      [
+        "(िेतपुर-गोंडल सेक्िन) और दकमी 1.5.00 से दकमी 1ब5.00 (रािकोट बाईपास) के  मौिूिा जहस्ट्से को िो लेन से चार लेन"
+      ],
+      [
+        "तक चौड़ा करने और दकमी 13..00 से दकमी 1.5.00 (गोंडल-रािकोट सेक्िन) के  मौिूिा चार लेन के  जहस्ट्से में सुधार"
+      ],
+      [
+        "करने और बीओटी (टोल) आधार पर और उक्त खंड के  संचालन और रखरखाव  हेतु पजश्चम गुिरात एक्सप्रेसवे जलजमटेड,"
+      ],
+      [
+        "जिसका  पंिीकृ त  कायाचलय आईएलएंडएफएस  फाइनेंजियल सेंटर, प्लॉट सी-22, िी-ब्लॉक, बांरा  कु लाच  कॉम्पप्लेक्स, बांरा"
+      ]
+    ],
+    "metadata": {
+      "accuracy": 100.00000000000001,
+      "extraction_method": "camelot_direct",
+      "flavor": "stream",
+      "whitespace": 0.0,
+      "headers": [
+        "अजधसूचना"
+      ],
+      "shape": [
+        12,
+        1
+      ],
+      "has_detected_header": true
+    }
+  },
+  {
+    "page": 3,
+    "table_number": 3,
+    "data": [
+      [
+        "THE GAZETTE OF INDIA : EXTRAORDINARY \n6",
+        ""
+      ],
+      [
+        "Light Commercial Vehicle, Light Goods Vehicle or Mini Bus",
+        "1.05"
+      ],
+      [
+        "Bus or Truck (Two Axles)",
+        "2.20"
+      ],
+      [
+        "Three-Axle Commercial Vehicles",
+        "2.40"
+      ],
+      [
+        "Heavy Construction Machinery (HCM) or Earth Moving Equipment (EME)",
+        "3.45"
+      ],
+      [
+        "or Multi Axle Vehicle (MAV) (four to six axles)",
+        ""
+      ],
+      [
+        "Oversized Vehicles (seven or more axles)",
+        "4.20"
+      ]
+    ],
+    "metadata": {
+      "accuracy": 99.99999999999999,
+      "extraction_method": "camelot_direct",
+      "flavor": "stream",
+      "whitespace": 14.285714285714285,
+      "headers": [],
+      "shape": [
+        7,
+        2
+      ]
+    }
+  },
+  {
+    "page": 3,
+    "table_number": 4,
+    "data": [
+      [
+        "mentioned in Table 1 above, for the distance specified for such Fee Plaza(s), namely: -",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Table-2",
+        ""
+      ],
+      [
+        "",
+        "During Construction period",
+        "",
+        "After Completion of six laning"
+      ],
+      [
+        "Location of Toll Plaza",
+        "Length (in km) for",
+        "Rate at which fee is payable Length (in km) for",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "Rate at which fee"
+      ],
+      [
+        "(chainage)",
+        "which Fee is",
+        "which Fee is",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "is payable"
+      ],
+      [
+        "",
+        "payable",
+        "payable",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "100% for four or"
+      ],
+      [
+        "At Km 120.700 (Existing",
+        "33.700",
+        "33.700",
+        ""
+      ],
+      [
+        "",
+        "",
+        "75% of the base rates",
+        "more lane, of the"
+      ],
+      [
+        "Km 120.700) of NH-27",
+        "[Excluding length",
+        "[Excluding length",
+        ""
+      ],
+      [
+        "",
+        "",
+        "mentioned in Table 1 above",
+        "base"
+      ],
+      [
+        "near Pithadiya village in",
+        "of Structures",
+        "of Structures",
+        ""
+      ],
+      [
+        "",
+        "",
+        "without annual revision",
+        "rates mentioned in"
+      ],
+      [
+        "Rajkot District of Gujarat",
+        "(>60m)]",
+        "(>60m)]",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "Table 1 above"
+      ],
+      [
+        "",
+        "",
+        "",
+        "100% for four or"
+      ],
+      [
+        "At Km 156.800 (Existing",
+        "32.58715",
+        "31.48715",
+        ""
+      ],
+      [
+        "",
+        "",
+        "75% of the base rates",
+        "more lane,  of the"
+      ],
+      [
+        "Km 156.800) of NH-27",
+        "[Excluding length",
+        "[Excluding length",
+        ""
+      ],
+      [
+        "",
+        "",
+        "mentioned in Table 1 above",
+        "base"
+      ],
+      [
+        "near Bharudi in Rajkot",
+        "of Structures",
+        "of Structures",
+        ""
+      ],
+      [
+        "",
+        "",
+        "without annual revision",
+        "rates mentioned in"
+      ],
+      [
+        "District of Gujarat",
+        "(>60m)]",
+        "(>60m)]",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "Table 1 above"
+      ]
+    ],
+    "metadata": {
+      "accuracy": 96.67328583484365,
+      "extraction_method": "camelot_direct",
+      "flavor": "stream",
+      "whitespace": 48.07692307692308,
+      "headers": [],
+      "shape": [
+        26,
+        4
+      ]
+    }
+  },
+  {
+    "page": 3,
+    "table_number": 5,
+    "data": [
+      [
+        "",
+        "",
+        "Table-3",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "After Completion of six laning",
+        ""
+      ],
+      [
+        "",
+        "During Construction period",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Location of Fee",
+        "Length of \nEquivalent",
+        "Rate at which \nLength of",
+        "Equivalent",
+        "Rate at which"
+      ],
+      [
+        "Plaza (Chainage)",
+        "structures (in \nroad length",
+        "fee is payable \nstructures (in",
+        "road length",
+        "fee is payable"
+      ],
+      [
+        "",
+        "km) to be \n(in km)",
+        "km) to be",
+        "(in km)",
+        ""
+      ],
+      [
+        "",
+        "converted into",
+        "converted into",
+        "",
+        ""
+      ],
+      [
+        "",
+        "equivalent road",
+        "equivalent road",
+        "",
+        ""
+      ],
+      [
+        "",
+        "length",
+        "length",
+        "",
+        ""
+      ],
+      [
+        "At Km 156.800",
+        "",
+        "75% of the base",
+        "",
+        "100% for four"
+      ],
+      [
+        "(Existing Km",
+        "11.1285* \n1.11285",
+        "rates mentioned \n2.21285**",
+        "22.1285",
+        "or more lane of"
+      ],
+      [
+        "156.800) of NH-8E",
+        "",
+        "in Table 1 above",
+        "",
+        "the base rates"
+      ]
+    ],
+    "metadata": {
+      "accuracy": 97.74081719259452,
+      "extraction_method": "camelot_direct",
+      "flavor": "stream",
+      "whitespace": 45.0,
+      "headers": [],
+      "shape": [
+        12,
+        5
+      ]
+    }
+  },
+  {
+    "page": 3,
+    "table_number": 6,
+    "data": [
+      [
+        "",
+        "Gujarat",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "*The details are as under: -",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Chainage",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "Type of Structure",
+        "Length (in km)"
+      ],
+      [
+        "",
+        "From Km",
+        "To Km",
+        "",
+        ""
+      ],
+      [
+        "1",
+        "165.450",
+        "165.550",
+        "Flyover",
+        "0.1001"
+      ],
+      [
+        "2",
+        "174.510",
+        "175.350",
+        "Flyover",
+        "0.84001"
+      ],
+      [
+        "3",
+        "178.051575",
+        "178.132425",
+        "Major Bridge",
+        "0.080853"
+      ],
+      [
+        "4",
+        "179.346",
+        "179.438",
+        "Major Bridge",
+        "0.092003"
+      ],
+      [
+        "",
+        "",
+        "Total Structure Length which are > 60m",
+        "",
+        "1.11285"
+      ]
+    ],
+    "metadata": {
+      "accuracy": 96.44944782152449,
+      "extraction_method": "camelot_direct",
+      "flavor": "stream",
+      "whitespace": 42.0,
+      "headers": [],
+      "shape": [
+        10,
+        5
+      ]
+    }
+  },
+  {
+    "page": 4,
+    "table_number": 7,
+    "data": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "7"
+      ],
+      [
+        "[भाग II—खण् ड 3(ii)]",
+        "",
+        "भारत का रािपत्र : असाधारण",
+        "",
+        "",
+        ""
+      ],
+      [
+        "**The details are as under: -",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Chainage",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "Type of Structure",
+        "Length (in km)",
+        ""
+      ],
+      [
+        "",
+        "From Km",
+        "To Km",
+        "",
+        "",
+        ""
+      ],
+      [
+        "1",
+        "165.450",
+        "165.550",
+        "Flyover",
+        "0.100",
+        ""
+      ],
+      [
+        "2",
+        "172.200",
+        "173.300",
+        "Elevated Structure",
+        "1.100",
+        ""
+      ],
+      [
+        "3",
+        "174.510",
+        "175.350",
+        "Flyover",
+        "0.8400",
+        ""
+      ],
+      [
+        "4",
+        "178.051575",
+        "178.132425",
+        "Major Bridge",
+        "0.08085",
+        ""
+      ],
+      [
+        "5",
+        "179.346",
+        "179.438",
+        "Major Bridge",
+        "0.09200",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Total Structure Length which are > 60m",
+        "",
+        "2.21285",
+        ""
+      ]
+    ],
+    "metadata": {
+      "accuracy": 94.98817400340393,
+      "extraction_method": "camelot_direct",
+      "flavor": "stream",
+      "whitespace": 50.0,
+      "headers": [],
+      "shape": [
+        12,
+        6
+      ]
+    }
+  }
+]

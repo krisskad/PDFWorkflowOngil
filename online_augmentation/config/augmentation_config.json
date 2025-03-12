@@ -1,0 +1,51 @@
+{
+  "input": {
+    "file_path": "",
+    "default_input_dir": "./data/output/",
+    "file_pattern": "*_chunked.json"
+  },
+  "output": {
+    "output_dir": "./data/output/augmented/",
+    "file_name_suffix": "_augmented"
+  },
+  "entity_extraction": {
+    "enabled": true,
+    "entity_types": [
+      "Organizations",
+      "People",
+      "Locations",
+      "Dates",
+      "Financial figures",
+      "Products or services",
+      "Legal references",
+      "Road_Sections"
+    ],
+    "confidence_threshold": 0.7,
+    "include_context": true,
+    "max_entities_per_type": 100
+  },
+  "metadata_extraction": {
+    "enabled": true,
+    "fields": [
+      "document_id",
+      "file_info",
+      "document_type",
+      "summary",
+      "topics",
+      "key_information"
+    ]
+  },
+  "online_search": {
+    "enabled": true,
+    "llm_model": "perplexity/sonar-reasoning-pro",
+    "entity_types": ["Road_Sections"],
+    "max_entities_per_type": 5,
+    "site_url": "https://example.com",
+    "site_name": "PDF Workflow"
+  },
+  "processing": {
+    "batch_size": 10,
+    "max_workers": 4,
+    "log_level": "INFO"
+  }
+}

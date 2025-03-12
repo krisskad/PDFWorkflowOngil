@@ -1,0 +1,646 @@
+{
+  "processed_images": [
+    {
+      "page": 28,
+      "image_number": 1,
+      "filename": "Alphabet_10K_page28_img1.png",
+      "path": "/Users/ajith/Code/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/Alphabet_10K_page28_img1.png",
+      "width": 1364,
+      "height": 960,
+      "format": "jpeg",
+      "xref": 137,
+      "extraction_method": "pymupdf",
+      "colorspace": 3,
+      "colorspace_name": "DeviceRGB",
+      "processed": true,
+      "is_chart": true,
+      "chart_type": "line graph",
+      "confidence": 0.99,
+      "description": "A line graph showing the stock price performance comparison between Alphabet Inc. Class A, S&P 500, NASDAQ Composite, and RDG Internet Composite from December 2018 to December 2023. The y-axis shows dollar values from $0 to $400, while the x-axis shows quarterly time periods. Alphabet stock (red line) shows the highest overall growth and volatility, reaching peaks around $275 in late 2021 and ending near $265 by the end of 2023.",
+      "axes_labels": {
+        "x_axis": "Time (quarterly from 12/18 to 12/23)",
+        "y_axis": "Price in USD ($0-$400)"
+      },
+      "data_series": [
+        "Alphabet Inc. Class A",
+        "S&P 500",
+        "NASDAQ Composite",
+        "RDG Internet Composite"
+      ],
+      "extracted_table": {
+        "headers": [
+          "Date",
+          "Alphabet Inc. Class A",
+          "S&P 500",
+          "NASDAQ Composite",
+          "RDG Internet Composite"
+        ],
+        "data": [
+          [
+            "12/18",
+            100,
+            100,
+            100,
+            100
+          ],
+          [
+            "3/19",
+            115,
+            120,
+            110,
+            120
+          ],
+          [
+            "6/19",
+            105,
+            125,
+            115,
+            125
+          ],
+          [
+            "9/19",
+            120,
+            130,
+            130,
+            140
+          ],
+          [
+            "12/19",
+            110,
+            105,
+            145,
+            135
+          ],
+          [
+            "3/20",
+            130,
+            120,
+            155,
+            195
+          ],
+          [
+            "6/20",
+            150,
+            135,
+            175,
+            200
+          ],
+          [
+            "9/20",
+            160,
+            145,
+            195,
+            195
+          ],
+          [
+            "12/20",
+            180,
+            155,
+            200,
+            200
+          ],
+          [
+            "3/21",
+            220,
+            170,
+            215,
+            215
+          ],
+          [
+            "6/21",
+            245,
+            180,
+            220,
+            195
+          ],
+          [
+            "9/21",
+            275,
+            195,
+            240,
+            185
+          ],
+          [
+            "12/21",
+            245,
+            190,
+            225,
+            165
+          ],
+          [
+            "3/22",
+            200,
+            170,
+            180,
+            140
+          ],
+          [
+            "6/22",
+            170,
+            155,
+            165,
+            120
+          ],
+          [
+            "9/22",
+            170,
+            160,
+            170,
+            115
+          ],
+          [
+            "12/22",
+            200,
+            175,
+            180,
+            145
+          ],
+          [
+            "3/23",
+            220,
+            185,
+            210,
+            150
+          ],
+          [
+            "6/23",
+            235,
+            190,
+            215,
+            155
+          ],
+          [
+            "9/23",
+            245,
+            195,
+            220,
+            160
+          ],
+          [
+            "12/23",
+            265,
+            205,
+            235,
+            170
+          ]
+        ],
+        "data_types": [
+          "string",
+          "number",
+          "number",
+          "number",
+          "number"
+        ],
+        "units": [
+          "date",
+          "dollars",
+          "dollars",
+          "dollars",
+          "dollars"
+        ],
+        "title": "Stock Performance Comparison (2018-2023)",
+        "source": null,
+        "notes": "The chart shows the relative performance of Alphabet Inc. Class A stock compared to S&P 500, NASDAQ Composite, and RDG Internet Composite indices from December 2018 to December 2023. Values appear to be normalized or indexed to 100 at the starting point.",
+        "extraction_confidence": 0.85
+      },
+      "ai_enhancements": {
+        "summary": {
+          "brief_summary": "This chart compares the stock price performance of Alphabet Inc. Class A against major market indices (S&P 500, NASDAQ Composite, and RDG Internet Composite) from December 2018 to December 2023.",
+          "detailed_summary": "The line graph tracks the relative performance of Alphabet's stock against three benchmark indices over a five-year period, with all values indexed to 100 at the starting point. Alphabet demonstrates stronger overall growth than the indices, particularly outperforming after mid-2021, despite experiencing more pronounced volatility including a significant peak in late 2021 followed by a correction in 2022 before recovering in 2023.",
+          "key_observations": [
+            "Alphabet stock outperformed all three indices over the five-year period, ending approximately 165% higher than its starting value.",
+            "All tracked securities experienced a significant dip in early 2020 (likely due to COVID-19) followed by strong recovery and growth.",
+            "Alphabet stock reached its peak around December 2021 at approximately $275, nearly tripling its December 2018 value.",
+            "A market correction in 2022 affected all tracked securities, with Alphabet experiencing the steepest decline from its peak.",
+            "By the end of 2023, Alphabet showed the strongest recovery and growth trajectory compared to the indices."
+          ],
+          "data_range": "Quarterly data from December 2018 to December 2023 (5 years)",
+          "audience": "Investors, financial analysts, portfolio managers, and Alphabet shareholders interested in the company's stock performance relative to broader market indices.",
+          "purpose": "To demonstrate Alphabet's stock performance relative to market benchmarks, highlighting periods of outperformance and volatility to inform investment decisions and provide context for Alphabet's market position."
+        },
+        "keywords": {
+          "main_topics": [
+            "Stock performance comparison",
+            "Tech sector investment returns",
+            "Market index benchmarking",
+            "Alphabet financial performance",
+            "Long-term investment trends"
+          ],
+          "keywords": [
+            "Alphabet",
+            "Google",
+            "Stock price",
+            "Market indices",
+            "S&P 500",
+            "NASDAQ",
+            "Internet stocks",
+            "Relative performance",
+            "Tech sector",
+            "Market volatility"
+          ],
+          "categories": [
+            "Stock prices",
+            "Time periods (quarterly from 2018-2023)",
+            "Market indices",
+            "Technology companies"
+          ],
+          "entities": [
+            "Alphabet Inc.",
+            "S&P 500 Index",
+            "NASDAQ Composite Index",
+            "RDG Internet Composite Index"
+          ],
+          "industry_relevance": "Technology, Digital Advertising, Internet Services, Search Engines, Cloud Computing, Financial Services, Investment Management"
+        },
+        "insights": {
+          "key_insights": [
+            "Alphabet consistently outperformed broader market indices over the five-year period, suggesting strong company fundamentals and investor confidence.",
+            "The tech sector (represented by NASDAQ and RDG Internet indices) showed greater volatility than the broader market (S&P 500), with Alphabet exhibiting even more pronounced price movements.",
+            "The 2022 market correction affected tech stocks more severely than the broader market, with Alphabet experiencing approximately a 30% decline from peak to trough.",
+            "Alphabet's recovery in 2023 outpaced all indices, potentially indicating renewed investor confidence in the company's growth prospects and AI initiatives.",
+            "Despite short-term volatility, Alphabet maintained a long-term growth trajectory that exceeded market benchmarks."
+          ],
+          "business_implications": "Alphabet's outperformance suggests strong business execution and revenue growth that exceeded market expectations. The company has successfully navigated market challenges including the pandemic, inflation concerns, and rising interest rates. The stock's recovery in 2023 indicates investor confidence in Alphabet's strategic initiatives, particularly in AI and cloud services. However, the pronounced volatility also suggests that Alphabet remains sensitive to broader tech sector sentiment and regulatory concerns.",
+          "recommendations": [
+            "Investors might consider Alphabet as a core holding for long-term growth portfolios, given its consistent outperformance of market indices.",
+            "Portfolio managers should be prepared for continued volatility in Alphabet stock, potentially using dollar-cost averaging strategies.",
+            "Alphabet management should continue to communicate their AI strategy clearly, as this appears to be driving recent stock performance.",
+            "Diversification remains important, as even strong performers like Alphabet experienced significant drawdowns during market corrections.",
+            "Investors should monitor regulatory developments closely, as these have historically impacted Alphabet's stock performance."
+          ],
+          "limitations": [
+            "The chart uses indexed values rather than absolute stock prices, which can obscure the actual price levels.",
+            "The quarterly time intervals may miss short-term volatility and trading opportunities.",
+            "The chart doesn't account for dividend payments, which affects total return calculations.",
+            "External factors affecting stock performance (regulatory news, product launches, earnings reports) are not indicated on the timeline.",
+            "The data doesn't show trading volume, which would provide context for the strength of price movements."
+          ],
+          "comparative_analysis": "Alphabet consistently outperformed all three indices over the five-year period, ending approximately 165% higher than its starting value compared to the S&P 500's 105%, NASDAQ's 135%, and RDG Internet's 70% gains. While all securities moved somewhat in tandem during major market events (like the 2020 COVID dip and 2022 correction), Alphabet showed greater upside potential during bull markets and steeper declines during corrections. The S&P 500 demonstrated the least volatility, while the tech-focused indices (NASDAQ and RDG Internet) showed moderate volatility. Notably, the RDG Internet Composite underperformed all other securities after mid-2021, suggesting Alphabet outperformed its internet sector peers significantly."
+        },
+        "trends": {
+          "trends": [
+            "Alphabet stock showed an overall upward trend over the five-year period, with approximately 165% growth from December 2018 to December 2023.",
+            "All tracked securities experienced a significant dip in early 2020 followed by strong recovery through 2021.",
+            "A market correction affected all securities in 2022, with varying degrees of impact.",
+            "Alphabet's stock demonstrated increasing divergence from indices over time, particularly after mid-2021.",
+            "The RDG Internet Composite showed relative weakness after mid-2021, underperforming other securities."
+          ],
+          "patterns": [
+            "Alphabet's stock typically exhibited higher highs and lower lows than the indices, indicating greater volatility.",
+            "Market-wide corrections affected all securities simultaneously, though with varying magnitudes.",
+            "Recovery periods showed Alphabet regaining momentum faster than indices after corrections.",
+            "Seasonal patterns are not strongly evident, with major movements appearing more tied to market events than calendar periods.",
+            "Alphabet's performance relative to indices widened during bullish periods and narrowed during bearish ones."
+          ],
+          "outliers": [
+            "Alphabet's peak in late 2021 (around $275) represents an exceptional period of outperformance.",
+            "The sharp decline in early 2020 across all securities (likely due to COVID-19) stands out as an unusual market event.",
+            "The RDG Internet Composite's underperformance after mid-2021 diverges from the NASDAQ's trajectory, suggesting specific challenges in the internet sector beyond general tech trends.",
+            "Alphabet's strong recovery in 2023 outpaced all indices, creating another period of notable divergence."
+          ],
+          "correlations": [
+            "Alphabet stock shows strong positive correlation with tech indices (NASDAQ and RDG Internet) during most periods.",
+            "All securities demonstrate high correlation during major market events (crashes and recoveries).",
+            "Correlation between Alphabet and indices weakened during 2021-2023, suggesting company-specific factors increasingly drove Alphabet's performance.",
+            "The S&P 500 and Alphabet show the weakest correlation among the comparisons, particularly after 2021."
+          ],
+          "growth_rates": [
+            "Alphabet: Approximately 165% growth over the five-year period (CAGR of about 21.5%)",
+            "S&P 500: Approximately 105% growth over the five-year period (CAGR of about 15.5%)",
+            "NASDAQ Composite: Approximately 135% growth over the five-year period (CAGR of about 18.5%)",
+            "RDG Internet Composite: Approximately 70% growth over the five-year period (CAGR of about 11.2%)",
+            "The steepest growth period for Alphabet occurred between March 2021 and December 2021, with approximately 50% growth in nine months."
+          ],
+          "statistical_significance": "The consistent outperformance of Alphabet over multiple years and through different market conditions suggests statistically significant outperformance rather than random variation. The correlation between Alphabet and market indices during major events appears statistically significant, while the divergence during company-specific growth periods also appears meaningful. The sample period of five years provides sufficient data points to identify genuine trends, though longer-term analysis would strengthen these conclusions."
+        }
+      }
+    },
+    {
+      "page": 29,
+      "image_number": 2,
+      "filename": "Alphabet_10K_page29_img2.png",
+      "path": "/Users/ajith/Code/PDF_Configurable_Workflow/pdf_extraction_cell/data/output/extracted_images/Alphabet_10K_page29_img2.png",
+      "width": 1364,
+      "height": 960,
+      "format": "jpeg",
+      "xref": 141,
+      "extraction_method": "pymupdf",
+      "colorspace": 3,
+      "colorspace_name": "DeviceRGB",
+      "processed": true,
+      "is_chart": true,
+      "chart_type": "line graph",
+      "confidence": 0.99,
+      "description": "A line graph showing the comparative performance of Alphabet Inc. Class C stock against three market indices (S&P 500, NASDAQ Composite, and RDG Internet Composite) from December 2018 to December 2023. The graph shows dollar values on the y-axis ranging from $0 to $400, with Alphabet stock (red line) generally outperforming the indices, particularly from mid-2021 onward, reaching approximately $275 by the end of the period.",
+      "axes_labels": {
+        "x_axis": "Time (quarterly from 12/18 to 12/23)",
+        "y_axis": "Value in dollars ($)"
+      },
+      "data_series": [
+        "Alphabet Inc. Class C",
+        "S&P 500",
+        "NASDAQ Composite",
+        "RDG Internet Composite"
+      ],
+      "extracted_table": {
+        "headers": [
+          "Date",
+          "Alphabet Inc. Class C",
+          "S&P 500",
+          "NASDAQ Composite",
+          "RDG Internet Composite"
+        ],
+        "data": [
+          [
+            "12/18",
+            100,
+            100,
+            100,
+            100
+          ],
+          [
+            "3/19",
+            105,
+            115,
+            110,
+            120
+          ],
+          [
+            "6/19",
+            105,
+            120,
+            125,
+            125
+          ],
+          [
+            "9/19",
+            120,
+            130,
+            135,
+            140
+          ],
+          [
+            "12/19",
+            110,
+            105,
+            130,
+            135
+          ],
+          [
+            "3/20",
+            140,
+            125,
+            150,
+            195
+          ],
+          [
+            "6/20",
+            150,
+            140,
+            170,
+            200
+          ],
+          [
+            "9/20",
+            160,
+            150,
+            190,
+            195
+          ],
+          [
+            "12/20",
+            175,
+            160,
+            200,
+            200
+          ],
+          [
+            "3/21",
+            210,
+            170,
+            210,
+            215
+          ],
+          [
+            "6/21",
+            250,
+            180,
+            220,
+            195
+          ],
+          [
+            "9/21",
+            275,
+            195,
+            240,
+            185
+          ],
+          [
+            "12/21",
+            250,
+            190,
+            225,
+            170
+          ],
+          [
+            "3/22",
+            200,
+            170,
+            180,
+            140
+          ],
+          [
+            "6/22",
+            175,
+            155,
+            165,
+            120
+          ],
+          [
+            "9/22",
+            170,
+            150,
+            160,
+            115
+          ],
+          [
+            "12/22",
+            190,
+            160,
+            170,
+            130
+          ],
+          [
+            "3/23",
+            220,
+            180,
+            200,
+            145
+          ],
+          [
+            "6/23",
+            240,
+            190,
+            215,
+            150
+          ],
+          [
+            "9/23",
+            250,
+            185,
+            210,
+            155
+          ],
+          [
+            "12/23",
+            275,
+            205,
+            235,
+            170
+          ]
+        ],
+        "data_types": [
+          "string",
+          "number",
+          "number",
+          "number",
+          "number"
+        ],
+        "units": [
+          "date",
+          "dollars",
+          "dollars",
+          "dollars",
+          "dollars"
+        ],
+        "title": "Stock Performance Comparison (2018-2023)",
+        "source": null,
+        "notes": "The chart shows the relative performance of Alphabet Inc. Class C stock compared to S&P 500, NASDAQ Composite, and RDG Internet Composite indices from December 2018 to December 2023. Values appear to be normalized to 100 at the starting point.",
+        "extraction_confidence": 0.85
+      },
+      "ai_enhancements": {
+        "summary": {
+          "brief_summary": "This chart shows Alphabet Inc. Class C stock performance compared to three market indices (S&P 500, NASDAQ Composite, and RDG Internet Composite) from December 2018 to December 2023, with Alphabet generally outperforming the indices.",
+          "detailed_summary": "The line graph tracks the relative performance of Alphabet Inc. Class C stock against three benchmark indices over a five-year period, with all values indexed to 100 at the starting point (December 2018). Alphabet stock experienced significant growth, particularly from mid-2020 through late 2021, followed by a correction in 2022, and then resumed growth in 2023. By the end of the period, Alphabet stock had appreciated to approximately $275, outperforming all three indices.",
+          "key_observations": [
+            "Alphabet stock (red line) showed the highest overall growth, reaching approximately 275% of its December 2018 value by December 2023",
+            "All four securities experienced a significant dip around March 2020, likely due to the COVID-19 pandemic, followed by strong recovery",
+            "Alphabet stock peaked around December 2021 before experiencing a substantial correction throughout 2022",
+            "The RDG Internet Composite (blue line) showed the weakest performance among the four securities by the end of the period",
+            "All securities showed recovery trends in 2023, with Alphabet's recovery being the strongest"
+          ],
+          "data_range": "Five-year period from December 2018 to December 2023, with quarterly data points",
+          "audience": "Investors, financial analysts, portfolio managers, and Alphabet shareholders interested in the company's stock performance relative to broader market indices",
+          "purpose": "To demonstrate Alphabet's stock performance against relevant market benchmarks over a five-year period, highlighting its relative strength and potential as an investment"
+        },
+        "keywords": {
+          "main_topics": [
+            "Stock performance comparison",
+            "Alphabet Inc. investment returns",
+            "Tech sector performance",
+            "Market index benchmarking",
+            "Long-term equity growth"
+          ],
+          "keywords": [
+            "Alphabet",
+            "Google",
+            "S&P 500",
+            "NASDAQ",
+            "RDG Internet Composite",
+            "stock performance",
+            "market indices",
+            "tech stocks",
+            "investment returns",
+            "comparative analysis"
+          ],
+          "categories": [
+            "Time (quarterly from Dec 2018 to Dec 2023)",
+            "Stock/index values (indexed to 100 at starting point)",
+            "Technology companies",
+            "Market indices"
+          ],
+          "entities": [
+            "Alphabet Inc.",
+            "S&P 500 Index",
+            "NASDAQ Composite Index",
+            "RDG Internet Composite Index"
+          ],
+          "industry_relevance": [
+            "Technology",
+            "Digital advertising",
+            "Internet services",
+            "Financial services",
+            "Investment management"
+          ]
+        },
+        "insights": {
+          "key_insights": [
+            "Alphabet stock has delivered superior returns compared to major market indices over the five-year period, suggesting strong company performance",
+            "The tech sector experienced significant volatility during this period, with sharp declines in early 2020 and 2022, followed by strong recoveries",
+            "Alphabet's performance diverged significantly from the RDG Internet Composite after 2021, indicating company-specific strengths beyond general internet sector trends",
+            "The 2022 market correction affected Alphabet more severely than the broader S&P 500, showing higher volatility in tech compared to the broader market",
+            "By late 2023, Alphabet had resumed its growth trajectory, outpacing all three indices and suggesting renewed investor confidence"
+          ],
+          "business_implications": "Alphabet's consistent outperformance of market indices suggests strong business fundamentals and effective execution of its business strategy. The company has demonstrated resilience through market downturns and ability to recover more strongly than peers. This performance validates Alphabet's diversification beyond core search advertising into cloud computing, YouTube, and other growth areas. However, the higher volatility also indicates greater sensitivity to market conditions and regulatory concerns.",
+          "recommendations": [
+            "Investors might consider maintaining or increasing positions in Alphabet stock given its demonstrated ability to outperform market indices over time",
+            "Portfolio managers should note Alphabet's higher volatility compared to broader indices when constructing balanced portfolios",
+            "Alphabet management should continue to communicate their growth strategy clearly to maintain investor confidence during periods of market volatility",
+            "Competitive analysis should focus on understanding why Alphabet outperformed the RDG Internet Composite, identifying specific business advantages",
+            "Risk management strategies should account for tech sector volatility as demonstrated in the 2022 correction"
+          ],
+          "limitations": [
+            "The chart uses indexed values rather than actual stock prices, which can obscure absolute price levels",
+            "The data doesn't account for dividend payments, which affects total return calculations",
+            "Quarterly data points may miss short-term volatility between reporting periods",
+            "The chart doesn't explain the underlying business factors driving performance differences",
+            "No statistical analysis is provided to determine if Alphabet's outperformance is statistically significant"
+          ],
+          "comparative_analysis": "Alphabet consistently outperformed all three indices over the five-year period, ending approximately 175% higher than its starting value compared to the S&P 500's 105%, NASDAQ's 135%, and RDG Internet Composite's 70% gains. Notably, while Alphabet and the NASDAQ Composite tracked relatively closely until mid-2020, Alphabet subsequently pulled ahead significantly. The RDG Internet Composite initially outperformed all others in 2020 but then underperformed significantly from 2022 onward, suggesting Alphabet's business model proved more resilient than other internet companies."
+        },
+        "trends": {
+          "trends": [
+            "All securities showed strong growth from March 2020 through late 2021, reflecting the tech-led bull market during the pandemic",
+            "A significant market correction occurred across all securities in 2022, with varying severity",
+            "Alphabet experienced the strongest recovery in 2023, regaining much of its previous peak value",
+            "The RDG Internet Composite showed the weakest recovery post-2022 correction",
+            "The S&P 500 demonstrated the least volatility among all securities tracked"
+          ],
+          "patterns": [
+            "Cyclical growth and correction phases appear across all securities, though with different magnitudes",
+            "Tech-focused securities (Alphabet, NASDAQ, RDG Internet) tend to move together directionally but with varying amplitudes",
+            "Alphabet's performance typically amplifies broader market movements, both positive and negative",
+            "Market corrections tend to affect tech stocks more severely than the broader S&P 500",
+            "Recovery periods show Alphabet regaining momentum faster than indices"
+          ],
+          "outliers": [
+            "The dramatic rise of the RDG Internet Composite in early 2020 (outperforming other securities)",
+            "Alphabet's significant outperformance during mid-to-late 2021, reaching nearly 280% of its starting value",
+            "The severe underperformance of the RDG Internet Composite in 2022-2023 compared to its earlier leadership position",
+            "Alphabet's steeper decline in 2022 compared to the S&P 500 and NASDAQ"
+          ],
+          "correlations": [
+            "Strong positive correlation between Alphabet and NASDAQ Composite movements, reflecting Alphabet's significant weight in the index",
+            "Moderate correlation between Alphabet and the S&P 500, with Alphabet showing higher volatility",
+            "Decreasing correlation between Alphabet and the RDG Internet Composite after 2021, suggesting diverging fundamentals",
+            "All securities show correlation during major market events (COVID crash, 2022 correction), but with varying recovery patterns"
+          ],
+          "growth_rates": [
+            "Alphabet: Approximately 175% growth over the five-year period (≈22% annualized)",
+            "NASDAQ Composite: Approximately 135% growth (≈18.5% annualized)",
+            "S&P 500: Approximately 105% growth (≈15.5% annualized)",
+            "RDG Internet Composite: Approximately 70% growth (≈11% annualized)",
+            "Highest growth period for Alphabet was March 2020 to December 2021 (≈100% in less than two years)"
+          ],
+          "statistical_significance": "While formal statistical tests aren't possible from the chart alone, the consistent outperformance of Alphabet over multiple years suggests the difference is likely statistically significant. The magnitude of difference (70+ percentage points over the S&P 500) and the persistence of the trend across multiple market cycles strengthen this conclusion. However, the high volatility in tech stocks means that shorter time periods might not show statistically significant differences."
+        }
+      }
+    }
+  ],
+  "summary": {
+    "total_images": 4,
+    "processed_images": 2,
+    "charts_detected": 2,
+    "tables_extracted": 2
+  }
+}
