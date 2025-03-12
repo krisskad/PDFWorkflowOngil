@@ -60,8 +60,8 @@ def main():
         chunk_file = os.path.basename(pdf_file).replace(".pdf", "_chunked.json")
         chunk_file_path = f"data/output/{chunk_file}"
         print(f"online_augmentation: {chunk_file}")
-        extraction_command = f'python -m online_augmentation.main --input {chunk_file_path} --search'
-        run_command(extraction_command)
+        augmentation_command = f'python -m online_augmentation.main --input {chunk_file_path} --search'
+        run_command(augmentation_command)
 
         # Step 7: merge chunked and augmented data
         chunk_augmented_file = os.path.basename(pdf_file).replace(".pdf", "_chunked_searched.json")
@@ -74,11 +74,18 @@ def main():
         if "chunks" in final_data:
             print("ES Loading")
             chunks = final_data["chunks"]
-            upload_main(records=chunks)
+            upload_main(records=chunks, index_name="law-demo")
 
 
         # Step 9: case mine
+        # starting casemine extraction
+        casemine_command = f'python -m casemine_extraction.main'
+        run_command(casemine_command)
 
+        # es load casemine data
+        case_details_json_path = f"data/output/case_details.json"
+        case_details_json = read_json(case_details_json_path)
+        upload_main(records=case_details_json, index_name="law-demo-casemine")
 
 
 if __name__ == "__main__":

@@ -1,40 +1,24 @@
-import ast
-import json
-import re
-from bs4 import BeautifulSoup
-import numpy as np
 import pandas as pd
-import zipfile
-import os
-import shutil
 import time
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver import ActionChains
-from selenium.webdriver.common.keys import Keys
-from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from tqdm import tqdm
-import difflib
-import janitor
 import random
-import string
-from typing import List
-import Levenshtein
-import glob
 from seleniumwire import webdriver
+# from .VirtualDispalyCodeAndTranslate import SmartDisplayWithTranslate
 
+binary_location = r"/usr/bin/google-chrome"
 
 def setup_chrome_driver_with_manager():
     custom_options = webdriver.ChromeOptions()
     custom_options.add_argument("start-maximized")
     custom_options.add_experimental_option("excludeSwitches", ["enable-automation"])
     custom_options.add_experimental_option('useAutomationExtension', False)
-    custom_options.binary_location = r"C:/Program Files/Google/Chrome/Application/chrome.exe"
+    custom_options.binary_location = binary_location
     service = Service(ChromeDriverManager().install())
     # Initialize the WebDriver
     driver = webdriver.Chrome(service=service, options=custom_options)
@@ -56,7 +40,7 @@ def setup_chrome_driver_with_manager2():
     custom_options.add_argument("start-maximized")
     custom_options.add_experimental_option("excludeSwitches", ["enable-automation"])
     custom_options.add_experimental_option('useAutomationExtension', False)
-    custom_options.binary_location = r"C:/Program Files/Google/Chrome/Application/chrome.exe"
+    custom_options.binary_location = binary_location
     service = Service(ChromeDriverManager().install())
     # Initialize the WebDriver
     driver1 = webdriver.Chrome(service=service, options=custom_options, seleniumwire_options=chrome_options)
@@ -266,8 +250,14 @@ def main():
     ## Extracting the case details
     case_details = case_details_extraction(case_urls_selected)
 
-    case_details.to_csv('case_details_130325.csv', index=False)
+    case_details.to_json('data/output/case_details.json', orient="records")
 
 
 if __name__ == "__main__":
+
+    # smt_dsp = SmartDisplayWithTranslate()
     main()
+    # try:
+    #    smt_dsp.stopSmartDisplay()
+    # except:
+    #    pass

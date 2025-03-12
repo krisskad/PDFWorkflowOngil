@@ -1,3 +1,5 @@
+import datetime
+
 from langchain_openai import OpenAIEmbeddings
 from elasticsearch import Elasticsearch, helpers
 import os
@@ -98,24 +100,10 @@ def upload_records_to_elasticsearch(records, index_name):
 
     left_docs = []
     for record in records:
-        doc_id = record["id"]
-        doc_type = record["type"]
-
-        # Separate fixed and dynamic fields
-        fixed_fields = {}
-        dynamic_fields = {}
-
-        for key, value in record.items():
-            if key in chunk_mapping["mappings"]["properties"]:
-                fixed_fields[key] = value
-            else:
-                dynamic_fields[key] = value
-
-        # Add dynamic fields to a "dynamic_fields" object
-        fixed_fields["dynamic_fields"] = dynamic_fields
+        doc_id = record.get("id", str(datetime.datetime.now()).replace(" ", "-"))
 
         # Generate vector embedding for the record
-        fixed_fields["embedding"] = embedding_model.embed_query(str(record))
+        record["embedding"] = embedding_model.embed_query(str(record))
 
         # Upload the document to Elasticsearch (explicitly specify the index)
         try:
@@ -158,8 +146,7 @@ def semantic_search(index_name, query_text, top_k=5):
     return [{"text": hit["_source"]["text"], "score": hit["_score"]} for hit in results["hits"]["hits"]]
 
 
-def upload_main(records: list):
-    index_name = "law-demo"
+def upload_main(records: list, index_name: str):
     upload_records_to_elasticsearch(
         records=records,
         index_name=index_name
